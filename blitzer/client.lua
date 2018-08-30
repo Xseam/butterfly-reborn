@@ -1,0 +1,8 @@
+addEvent("onBlitzerStart", true)
+addEventHandler("onBlitzerStart", getRootElement(), function(speed, kmh)
+	fadeCamera(false, 0, 255, 255, 255)
+	setTimer(fadeCamera, 50, 1, true, 1.0)
+	playSound("sounds/camera.mp3", false)
+	outputChatBox("Du wurdest mit "..speed.." km/h geblitzt!", 255, 0, 0)
+	outputChatBox("Die Rechnung findest du in deinem Inventar.", 255, 0, 0)
+end)

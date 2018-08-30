@@ -1,0 +1,14 @@
+<map edf:definitions="editor_main">
+    <object id="object (fenceshit2) (1)" doublesided="false" model="984" interior="0" dimension="0" posX="1414.3000488281" posY="413.89999389648" posZ="20.299999237061" rotX="0" rotY="0" rotZ="336"></object>
+    <object id="object (fenceshit2) (2)" doublesided="false" model="984" interior="0" dimension="0" posX="1409.0999755859" posY="402.20001220703" posZ="20.299999237061" rotX="0" rotY="0" rotZ="335.99487304688"></object>
+    <object id="object (fenceshit2) (3)" doublesided="false" model="984" interior="0" dimension="0" posX="1404.0999755859" posY="390.5" posZ="21.39999961853" rotX="0" rotY="0" rotZ="335.99487304688"></object>
+    <object id="object (fenceshit2) (4)" doublesided="false" model="984" interior="0" dimension="0" posX="1399" posY="378.89999389648" posZ="21.39999961853" rotX="0" rotY="0" rotZ="336.49487304688"></object>
+    <object id="object (fenceshit2) (5)" doublesided="false" model="984" interior="0" dimension="0" posX="1396.5" posY="373" posZ="21.39999961853" rotX="0" rotY="0" rotZ="336.49475097656"></object>
+    <object id="object (fenceshit2) (6)" doublesided="false" model="984" interior="0" dimension="0" posX="1387.3000488281" posY="369.60000610352" posZ="21.39999961853" rotX="0" rotY="0" rotZ="66.494750976563"></object>
+    <object id="object (helipad01) (1)" doublesided="false" model="3934" interior="0" dimension="0" posX="1377.9000244141" posY="389.39999389648" posZ="27.799999237061" rotX="0" rotY="0" rotZ="336"></object>
+    <object id="object (helipad01) (2)" doublesided="false" model="3934" interior="0" dimension="0" posX="1386.4000244141" posY="417.39999389648" posZ="27.799999237061" rotX="0" rotY="0" rotZ="335.99487304688"></object>
+    <object id="object (sw_jetty) (1)" doublesided="false" model="12990" interior="0" dimension="0" posX="1418.1999511719" posY="511.89999389648" posZ="0.69999998807907" rotX="0" rotY="0" rotZ="170"></object>
+    <object id="object (sw_jetty) (2)" doublesided="false" model="12990" interior="0" dimension="0" posX="1423.4000244141" posY="541.20001220703" posZ="1.2000000476837" rotX="0" rotY="0" rotZ="169.99694824219"></object>
+    <object id="object (sw_jetty) (3)" doublesided="false" model="12990" interior="0" dimension="0" posX="1411.4000244141" posY="545.59997558594" posZ="1.1000000238419" rotX="0" rotY="0" rotZ="259.99694824219"></object>
+    <object id="object (sw_jetty) (4)" doublesided="false" model="12990" interior="0" dimension="0" posX="1436.0999755859" posY="541.09997558594" posZ="1.1000000238419" rotX="0" rotY="0" rotZ="79.996948242188"></object>
+</map>

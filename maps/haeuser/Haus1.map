@@ -1,0 +1,28 @@
+<map edf:definitions="editor_main">
+    <object id="object (fenceshit2) (1)" doublesided="false" model="984" interior="0" dimension="0" posX="2259.9899902344" posY="-23.209999084473" posZ="26.120000839233" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kb_planter_bush2) (1)" doublesided="false" model="640" interior="0" dimension="0" posX="2276.2800292969" posY="-2.9400000572205" posZ="27.059999465942" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kb_planter_bush2) (2)" doublesided="false" model="640" interior="0" dimension="0" posX="2276.0900878906" posY="14.489999771118" posZ="27.170000076294" rotX="0" rotY="0" rotZ="1.99951171875"></object>
+    <object id="object (kb_planter_bush2) (3)" doublesided="false" model="640" interior="0" dimension="0" posX="2266.3701171875" posY="-7.5595703125" posZ="27.170000076294" rotX="0" rotY="0" rotZ="271.99951171875"></object>
+    <object id="object (kb_planter_bush2) (4)" doublesided="false" model="640" interior="0" dimension="0" posX="2276.2099609375" posY="-8.1999998092651" posZ="26.790000915527" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kb_planter_bush2) (5)" doublesided="false" model="640" interior="0" dimension="0" posX="2276.1398925781" posY="-15.340000152588" posZ="26.409999847412" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lounger) (1)" doublesided="false" model="1255" interior="0" dimension="0" posX="2261.8400878906" posY="16.290000915527" posZ="27.049999237061" rotX="0" rotY="0" rotZ="60"></object>
+    <object id="object (lounger) (2)" doublesided="false" model="1255" interior="0" dimension="0" posX="2262.4399414063" posY="15.109999656677" posZ="27.049999237061" rotX="0" rotY="0" rotZ="59.996337890625"></object>
+    <object id="object (lounger) (3)" doublesided="false" model="1255" interior="0" dimension="0" posX="2269.9699707031" posY="16.549999237061" posZ="27.049999237061" rotX="0" rotY="0" rotZ="59.996337890625"></object>
+    <object id="object (lounger) (4)" doublesided="false" model="1255" interior="0" dimension="0" posX="2271.3798828125" posY="16.690000534058" posZ="27.049999237061" rotX="0" rotY="0" rotZ="59.996337890625"></object>
+    <object id="object (SWK_COUCH_1) (1)" doublesided="false" model="2290" interior="0" dimension="0" posX="2265.5900878906" posY="10.329999923706" posZ="26.479999542236" rotX="0" rotY="0" rotZ="170"></object>
+    <object id="object (SWK_COUCH_1) (2)" doublesided="false" model="2290" interior="0" dimension="0" posX="2267.2099609375" posY="13.579999923706" posZ="26.479999542236" rotX="0" rotY="0" rotZ="269.99694824219"></object>
+    <object id="object (DUNC_DINNING) (1)" doublesided="false" model="2357" interior="0" dimension="0" posX="2264.6298828125" posY="12.869999885559" posZ="26.370000839233" rotX="0" rotY="0" rotZ="34"></object>
+    <object id="object (DYN_TV) (1)" doublesided="false" model="1429" interior="0" dimension="0" posX="2264.8100585938" posY="13.010000228882" posZ="27.030000686646" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_BEER_1) (1)" doublesided="false" model="1486" interior="0" dimension="0" posX="2266.1101074219" posY="13.869999885559" posZ="26.930000305176" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_BEER_1) (2)" doublesided="false" model="1486" interior="0" dimension="0" posX="2266.080078125" posY="13.609999656677" posZ="26.930000305176" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_BEER_1) (3)" doublesided="false" model="1486" interior="0" dimension="0" posX="2265.8898925781" posY="13.800000190735" posZ="26.930000305176" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_BEER_1) (4)" doublesided="false" model="1486" interior="0" dimension="0" posX="2263.5200195313" posY="12.460000038147" posZ="26.930000305176" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_BEER_1) (5)" doublesided="false" model="1486" interior="0" dimension="0" posX="2263.9099121094" posY="12.689999580383" posZ="26.930000305176" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_BEER_1) (6)" doublesided="false" model="1486" interior="0" dimension="0" posX="2263.3898925781" posY="12.079999923706" posZ="26.930000305176" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (SWANK_SPEAKER_2) (1)" doublesided="false" model="2230" interior="0" dimension="0" posX="2268.6499023438" posY="9.8999996185303" posZ="26.479999542236" rotX="0" rotY="0" rotZ="190"></object>
+    <object id="object (SWANK_SPEAKER_2) (2)" doublesided="false" model="2230" interior="0" dimension="0" posX="2260.7299804688" posY="10.409999847412" posZ="26.479999542236" rotX="0" rotY="0" rotZ="139.99755859375"></object>
+    <object id="object (SWANK_SPEAKER_2) (3)" doublesided="false" model="2230" interior="0" dimension="0" posX="2259.4599609375" posY="17.979999542236" posZ="26.479999542236" rotX="0" rotY="0" rotZ="69.993286132813"></object>
+    <object id="object (SWANK_SPEAKER_2) (4)" doublesided="false" model="2230" interior="0" dimension="0" posX="2275.169921875" posY="17.590000152588" posZ="26.479999542236" rotX="0" rotY="0" rotZ="59.988403320313"></object>
+    <object id="object (kb_planter_bush2) (6)" doublesided="false" model="640" interior="0" dimension="0" posX="2262.0600585938" posY="-18.879999160767" posZ="26.180000305176" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kb_planter_bush2) (7)" doublesided="false" model="640" interior="0" dimension="0" posX="2267.330078125" posY="-18.909999847412" posZ="26.180000305176" rotX="0" rotY="0" rotZ="90"></object>
+</map>

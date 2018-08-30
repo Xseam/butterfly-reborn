@@ -1,0 +1,23 @@
+<map edf:definitions="editor_main">
+    <object id="object (cjsaveg) (1)" doublesided="false" model="17950" interior="0" dimension="0" posX="-12.159999847412" posY="-377.79998779297" posZ="6.5500001907349" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (cjsaveg) (2)" doublesided="false" model="17950" interior="0" dimension="0" posX="-18.89999961853" posY="-377.79998779297" posZ="6.5500001907349" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (cjsaveg) (3)" doublesided="false" model="17950" interior="0" dimension="0" posX="-25.670000076294" posY="-377.80999755859" posZ="6.5500001907349" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (cjsaveg) (4)" doublesided="false" model="17950" interior="0" dimension="0" posX="-32.400001525879" posY="-377.76000976563" posZ="6.5500001907349" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (cjsaveg) (5)" doublesided="false" model="17950" interior="0" dimension="0" posX="-39.159999847412" posY="-377.82000732422" posZ="6.5500001907349" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (mich_int_sfe) (1)" doublesided="false" model="10282" interior="0" dimension="0" posX="-1.1299999952316" posY="-376.83999633789" posZ="5.4400000572205" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (bollardlight) (1)" doublesided="false" model="1215" interior="0" dimension="0" posX="-8.7399997711182" posY="-373.16000366211" posZ="4.9899997711182" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (2)" doublesided="false" model="1215" interior="0" dimension="0" posX="-15.529999732971" posY="-373.17001342773" posZ="4.9899997711182" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (3)" doublesided="false" model="1215" interior="0" dimension="0" posX="-22.309999465942" posY="-373.23999023438" posZ="4.9899997711182" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (4)" doublesided="false" model="1215" interior="0" dimension="0" posX="-29.049999237061" posY="-373.11999511719" posZ="4.9899997711182" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (5)" doublesided="false" model="1215" interior="0" dimension="0" posX="-35.770000457764" posY="-373.23001098633" posZ="4.9899997711182" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (6)" doublesided="false" model="1215" interior="0" dimension="0" posX="-42.560001373291" posY="-373.26998901367" posZ="4.9899997711182" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_LADDER_2) (1)" doublesided="false" model="1437" interior="0" dimension="0" posX="-35.869998931885" posY="-372.57998657227" posZ="4.4299998283386" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (DYN_LADDER_2) (2)" doublesided="false" model="1437" interior="0" dimension="0" posX="-43.520000457764" posY="-375.45001220703" posZ="4.4299998283386" rotX="0" rotY="0" rotZ="269.99450683594"></object>
+    <object id="object (crates) (1)" doublesided="false" model="18257" interior="0" dimension="0" posX="-33.389999389648" posY="-378.7200012207" posZ="8.8100004196167" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (RACK2) (1)" doublesided="false" model="925" interior="0" dimension="0" posX="-44.240001678467" posY="-377.9700012207" posZ="5.4899997711182" rotX="0" rotY="0" rotZ="80"></object>
+    <object id="object (RACK2) (2)" doublesided="false" model="925" interior="0" dimension="0" posX="-46.580001831055" posY="-380.10000610352" posZ="5.4899997711182" rotX="0" rotY="0" rotZ="359.99694824219"></object>
+    <object id="object (RACK2) (3)" doublesided="false" model="925" interior="0" dimension="0" posX="-46.669998168945" posY="-380.01998901367" posZ="7.6199998855591" rotX="0" rotY="0" rotZ="359.99450683594"></object>
+    <object id="object (O2_Bottles) (1)" doublesided="false" model="930" interior="0" dimension="0" posX="-10.630000114441" posY="-376.94000244141" posZ="9.289999961853" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (O2_Bottles) (2)" doublesided="false" model="930" interior="0" dimension="0" posX="-11.659999847412" posY="-376.19000244141" posZ="9.289999961853" rotX="0" rotY="0" rotZ="20"></object>
+    <object id="object (O2_Bottles) (3)" doublesided="false" model="930" interior="0" dimension="0" posX="-8.1800003051758" posY="-377.35998535156" posZ="4.9099998474121" rotX="0" rotY="0" rotZ="89.9951171875"></object>
+</map>

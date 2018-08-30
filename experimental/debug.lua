@@ -1,0 +1,40 @@
+local Beta = 1
+
+addCommandHandler("setdata",
+function(thePlayer, Command,user, dstring,level)
+if(Beta == 0) then return end
+local name = getPlayerName(thePlayer)
+if(name ~= "MuLTi") then return end
+if not(dstring) then return end
+if not(level) then return end
+setElementData(getPlayerFromName(user),tostring(dstring),level)
+outputChatBox("String: "..tostring(dstring).." als ElementData auf level: "..level.." gesetzt!",thePlayer, 0, 255, 0, false)
+end)
+
+addCommandHandler("fraktion",
+function(thePlayer, cmd, id)
+if(Beta == 0) then return end
+if not(id) then outputChatBox("ID'S: 1 = Yakuza", thePlayer, 255, 255, 255, false) return end
+setElementData(thePlayer, "Fraktion", tonumber(id))
+outputChatBox("Fraktion auf ID: "..tonumber(id).." gesetzt.", thePlayer, 0, 255, 0, false) return end
+)
+
+addCommandHandler("vehicle", 
+function(thePlayer, cmd, veh)
+	if not(veh) then return end
+	if(Beta == 0) then return end
+	local name = getVehicleModelFromName(veh)
+	local x, y, z = getElementPosition(thePlayer)
+	if not(name) then
+		local veh = tonumber(veh)
+		local vehicle = createVehicle(veh, x, y, z)
+		setElementData(vehicle, "Besitzer", getPlayerName(thePlayer))
+		setTimer( function()
+		warpPedIntoVehicle(thePlayer, vehicle)
+		end, 100, 1)
+	else
+		local vehicle = createVehicle(name, x, y, z)
+		setElementData(vehicle, "Besitzer", getPlayerName(thePlayer))
+		warpPedIntoVehicle(thePlayer, vehicle)
+	end
+end)

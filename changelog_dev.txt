@@ -1,0 +1,229 @@
+
+Update 1.0.2:
+______________________
+	+ Register-Login Perfomance gefixxt
+	+ Beim Serverrestart werden nun Waffen und Position gespeichert
+	+ Wenn man in einem Auto sitzt, werden nur Waffen gespeichert
+	+ Beim Betreten des Servers werden nun Kamerapositionen gezeigt
+	+ Server wird nun jeden Morgen um 4 Uhr Restartet
+	+ Perfomance-Fix, Resourcen Auslastung reduziert
+	+ Temperatur-System hinzugefügt
+	+ News-Reporter bekommen nun auch Temperaturen
+	+ Dynamische Temperaturen wechseln Immer
+	+ Hilfemenue Angepasst
+	+ Helpmanager wird nun beim Serverrestart Beendet
+	+ Forum + Teamspeak im Hilfemenue aufgelistet
+	+ Pay'n'spray in Blueberry Hinzugefügt
+	+ ?-Icon zu einem P-Icon geändert
+	+ Pay'n'Spray Blueberry nur für Helis und Flugzeuge
+	+ Info-Menue nun auf 'i' aufrufbar
+	+ Bankraub hinzugefuegt(Fast Fertig)
+	+ Kleidungsshop in Montgomery hinzugefuegt
+	+ Blip auf Radar hinzugef.
+	+ 84 Skins zu Kaufen
+	+ Skinnamen, und Dynamische Preise
+	
+Butterfly-Reallife Update 1.1:
+Gestartet 21.03.2012 um 16:42
+_________________________
+	+ Lackiererei von Helikopter nun auf dem Feld verschoben
+	+ Parkplatz an der Fleischbergfabrik hinzugef.
+	+ 	- Objekte an der Fabrik entfernt
+	+ 	- 2 Schranken hinzugef.
+	+ 	- Blip hinzugef.
+	+ 	- Auf/Zu Timer auf eine Sekunde runtergeschraubt
+	+ 	- Information hinzugef.
+	+ Auto-Kauf GUI Gefixxt
+	+ Zahlungsarten gefixxt
+	+ Mann kann nun nichtmehr mit einem Auto in dem Heli-Paynspray
+	+ Neue Funktionen auf /rebind
+	+ Noobspawn Roller koennen nun nicht mehr Schrott gehen
+	+ Barrikaden-Inventar Bild hinzugef.
+	+ Reporter koennen nun Absperrungen platzieren + entfernen
+	+ 	- RCPD kann nun auch Absperrungen entfernen
+	+ 4 Blitzer hinzugefuegt
+	+ 	- Blitzerrechnung im Inventar hinzugef.
+	+ 	- Maximale Geschwindigkeit: 80 km/h
+	+ 	- Inventar angepasst
+	+ 	- Das RCPD bekommt das Blitzergeld in die Fraktionskasse
+	+ 	- Bussgeld ist die Ueberschrittene Geschwindigkeit + 15% davon.
+	+ Anti-Rotor-Tot hinzugef.
+	+ Animationen nun auch ueber Commands
+	+ 	- Fuer Tanzart gibt es den 1. Parameter bei dem Command
+	+ Radio Streams hinzugef.
+	+ Spenden hinzugef.
+	+ 	- Spenden kann man nun in der Bank taetigen
+	+ 	- Spenden gehen in die Fraktionskasse des RCNR's
+	+ Payday erhoeht
+	+ 	- Kontoauszug bearbeitet
+	+ Automatische Nachrichten Hinzugefuegt
+	+ 	- Erscheinen alle 25 Minuten
+	+ MySQL-Perfomance Fix
+	+ Diverse Bugfixxes
+	+ Autonachrichten angepasst
+	+ Debug-Code beim Joinen hinzugef.
+	+ Waffenmunition-aufschlag Sound hinzugef.
+	+ Bei Bewusstlosigkeit wird am Auto ein Sound abgespielt
+	+ Live-Interview fix #1
+	+ Smoke beim Schiessen hinzugef.
+	+ 	- Funken bei Kamera, Dildo, Raketenwerfer etc. Entfernt
+	+ 	- + Sound
+	+ Hilfemenue Quellen angepasst
+	+ Hilfemenue Commands hinzugef.
+	+ 'F5' - Bind auf Animationen entfernt, da die Taste bereits fuer den RCNR-Fraktions-PC belegt ist
+	+ AFK-Check-Zeit auf 5 Sekunden geschraubt
+	+ Peds beim Einloggen gefixxt
+	+	- Peds hinzugef.
+	+ Parkplatz Bugfixx:
+	+	- Die Schranken gehen nun nichtmehr Zu, wenn sich noch Personen darunter befinden
+	+ Server FPS Limit auf 65 Frames runtergeschraubt
+	+ Anti-Cheat fuer Element-Data via Runcode hinzugef.
+	+ Auto-Treibstoff fix:
+	+	- Mann kann nun auch mit 0.5 Liter noch Fahren
+	+	- Ab 0 Liter ist schluss
+	+ Hunger Command rausgenommen
+	+ Tankstelle-Snack Fix:
+	+	- Man bekommt nun weniger Hunger, statt mehr
+	+ Message-Farben fix
+	+ Nitrofarbe auf Lila/Cyan gefaerbt
+	+ Radius beim Betreten einer Schranke vergroessert
+	+ Report System hinzugef.
+	+	- Entweder nur /report oder /report [Text]
+	+	- bei /report erscheint ein GUI.
+	+	- Admins koennen per ID direkt antworten
+	+ 	- Spieler koennen den Admin der geantwortet hat auch direkt Antworten
+	+	- Und so weiter
+	+ Paylogs und Abrechnungen Verschoben
+	+	- Info Datei drangehaengt
+	+ Neuer Scoreboard Hintergrund
+	+ Wenn man auf sich Klickt, oeffnet sich das Infomenue
+	+ /help Command hinzugef.
+	+ Diverse Commands ins Hilfemenue eingetragen
+	+ Freecars entfernt
+	+ Firmenautos sind geblieben
+	+ Mann kann nun nichtmehr springen, wenn mein ein Objekt in der Hand haelt
+	+ Peds beim Einloggen werden nun richtig geloescht
+	+ /rebind bei Leben gefixxt
+	+ Schranke an dem Warenhaus(Vor der Rennstrecke) hinzugef.
+	+ Massiver Perfomance & frames-fix durch Loeschen von GUI-Elementen (Frueher waren sie nur unsichtbar)
+	
+Butterfly-Reallife Update 1.1.1:
+___________________
+	+ Wenn man etwas Wegwirft, und man keine Anzahl angegeben hat, betraegt die automatisch 1
+	+ Ammunation in Montgomery entfernt
+	+ Neuer Ammunation in Blueberry hinzugef.
+	+ Entbuggtes Interior
+	+ Blip verschoben
+	+ Es kommt nun kein Sound mehr, wenn man auf einen Spieler oder einen Ped schiesst
+	+ Pistole nun staerker gemacht
+	+ Desert Eagle ist nun viel schwaecher
+	+ Radio Fenster bearbeitet
+	+	- Sounds koennen nun wiederholt abgespielt werden
+	+	- GUI Groesser gemacht
+	
+Butterfly-Reallife Update 1.1.2:
+__________________
+	+ Neuer Job Hinzugef. : Waffen-Auslieferung
+	+	- Befindet sich am Ammu Nation in Blueberry
+	+	- Hoher Lohn
+	+ Jobs gefixxt:
+	+	- Man wird nun beim beenden eines Jobs wieder zu der Anfangsposition zurueckgeportet
+	+	- Das Jobauto gehoert nun nichtmehr denjenigen, der den Job gestartet hat
+	+	- Motor ist automatisch an
+	+ Resoucen Hinzugef.
+	+ Admin Resourcen Management:
+	+	- Admins koennen Ingame Resourcen Starten, Stoppen und Restarten
+	+	- Im Moment gibt es nur die Kartbahn
+
+Butterfly-Reallife Update 1.1.3:
+__________________
+	+ /admins gefxxt
+	+ Tazer gefixxt
+	+ FBI Kann nun Polizeicomputer benutzen
+	+ FBI Kann nun Tazer benutzen
+	+ Mann kann nun kein minus-Geld mehr geben
+	+ Mann kann nun Maximal 500k geben
+	+ Schiesstand Hinzugef.
+	+	- Fuer Boese Fraktionen
+	+	- Ungefaehr 45 Ziele
+	+	- Sicherung
+	
+Butterfly-Reallife Update 1.1.4:
+________________
+	+ Area51 Erweitert
+	+ Dodo hinzugef.
+	+ Raketenwerfer und RPG rausgenommen, da die Fraktionen nur scheisse damit bauen
+	+ Man ist nun 2 Minuten im Krankenhaus
+	+ Aufnehmrate von Geld bei Tot erhoeht(Scheine)
+	+ Man kann nun kein Minus-Geld mehr verlieren
+	+ FBI Funktionen zu RCPD hinzugefuegt
+	+ Tazer gefixxt
+	+ Mann kann nun nurnoch im Auto /tie benutzen
+	+ Terroristen haben nun Raketen auf den Dach eines Bobcats
+	+ Koennen Raketen jede 10 Sekunden schiessen
+	+ Dodo der Army verbessert:
+	+	- Man muss nun num_add druecken, um die Kamera zu aktivieren
+	+	- Den Knopf loslassen entfernt die Kamera
+	
+Butterfly-Reallife Update 1.2.0:
+________________
+	+ Area51 Gefixxt
+	+ Lift der Area51 gefixxt
+	+ FBI kann nun Megafon benutzen
+	+ Megafon gefixxt(RCPD hat Officer, FBI hat FBI Agent)
+	+ FBI kann nun Nagelbaender entfernen
+	+ Derby Arena hinzugefuegt
+	+	- In Los Santos, Suedlicher Teil
+	+	- Mit einer Trophaehe gekennzeichnet
+	+	- 4 Teams, Mit Eingang und Ausgang
+	+	- Muss noch etwas ausgearbeitet werden
+	+	- Man wird schneller behandelt, wenn man in der Derby-Arena gestorben ist
+	+ Ueberschwemmungen hinzugefuegt
+	+	- Tritt bei einer 1/10. Chance bei Sturm auf
+	+	- Ueberflutet groessten Teils Blueberry
+	+	- RCNRler bekommen die Meldung
+	+ Ampeln werden nun bei Nacht ausgeschaltet
+	+ Bei der Werbung wird nun die Handynummer des Users angegeben
+	+ Staatsfraktionen koennen sich nun in einem Waffenfaehigen Auto ausruesten
+	+ Burrito und der Flatbed der Yakuza hat nun Panzerung und Besseren Motor
+	+ Sultan der Yakuza hat nun besseren Motor
+	+ Securicar der Yakuza hat nun Panzerung
+	+ Securicara + Flatbed der Red Brothers haben nun Panzerung
+	+ Flatbed der Red Brothers hat nun ein Besseren Motor
+	+ Sultan der R.B. hat nun ein Besseren Motor
+	+ Yakuza hat nun 5 Garagen
+	+ Yakuza hat nun ein Paynspray in der Base fuer Fraktionsfahrzeuge
+	+ Red Brothers hat nun ein Paynspray in der Base fuer Fraktionsfahrzeuge
+	+ Mann kann nun nichtmehr mit einem Fahrzeug in den Pizza Laden fahren
+	+ Red Brothers hat nun eine Waffenbox in der Base
+	+	- + Deko
+	+ Fahrzeugsystem verbessert
+	+ F3 verbessert
+	+ Tuningteil GPS Hinzugef.
+	+	- Ein Blip erscheint auf der Karte in der Farbe des Slots, wo sich das Fahrzeug befindet
+	+	- Gibt es in der Garage zu Kaufen(Kostet bis jetzt 150$)
+	+ Framerate an gewissen Orten erhoeht
+	+ Offlinenachrichten werden nun sofort bei Aktion angezeigt, wenn der Spieler online ist
+	+ "Repair"-Knopf fuer Admins beim Auto endlich eingefuegt
+	+ Man kann nun nichtsmehr in der Tuninggarage Kaufen, wenn man kein Geld hat (Logisch)
+	+ Man wird nun erst bei 86 km/h geblitzt
+	+ Man verliert nun den Fuehrerschein, wenn man mehr als 14 STVO-Punkte besitzt
+	+ Rathaus verbessert, beziehungsweise versucht zu verbessern
+	+ Tuninggarage als Map Hinzugefuegt
+	+ Tuninggarage verschoben
+	+	- Befindet sich nun naehe der Rennstrecke
+	+	- Blip verschoben
+	+ Handy gefixxt, man hat nun wirklich Kein Handy, und wirklich ein Handy
+	+ Killlogs hinzugef.
+	+	- Wird bei Tot per Waffe abgespeichert
+	+	- Wird bei Tot per Fahrzeug abgespeichert(Fahrer des Fahrzeugs)
+	
+Butterfly-Reallife Update 1.2.1:
+________________
+	+ FBI Infernus hat nun Besseren Motor
+	+ Rancher und anderes auch
+	+ Truck hat nun Panzerung
+	+ Enforcer hat nun Panzerung
+	+ Privatautos-Benzinverbrauch gefixxt
+	+ Privatautos verbrauchen nun auch Kraftstoff
+	+ Genauso wie Fraktionsautos

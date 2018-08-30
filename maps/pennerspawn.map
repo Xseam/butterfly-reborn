@@ -1,0 +1,21 @@
+<map edf:definitions="editor_main">
+    <object id="object (sw_pickupwreck01) (1)" doublesided="false" model="12957" interior="0" dimension="0" posX="272.60000610352" posY="-10.10000038147" posZ="2.2000000476837" rotX="0" rotY="0" rotZ="30"></object>
+    <object id="object (smashboxpile) (1)" doublesided="false" model="1299" interior="0" dimension="0" posX="273" posY="-14.39999961853" posZ="1.6000000238419" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (BinNt07_LA) (1)" doublesided="false" model="1337" interior="0" dimension="0" posX="277.89999389648" posY="-19.89999961853" posZ="1.8999999761581" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_Dumpster2) (1)" doublesided="false" model="1344" interior="0" dimension="0" posX="276.60000610352" posY="-18.10000038147" posZ="2" rotX="0" rotY="0" rotZ="260"></object>
+    <object id="object (CJ_Dumpster) (1)" doublesided="false" model="1345" interior="0" dimension="0" posX="270" posY="-36.200000762939" posZ="1.3999999761581" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_Dumpster) (2)" doublesided="false" model="1345" interior="0" dimension="0" posX="266.89999389648" posY="-36.099998474121" posZ="1.3999999761581" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_WASTEBIN) (1)" doublesided="false" model="1347" interior="0" dimension="0" posX="271.20001220703" posY="-20.5" posZ="1.6000000238419" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_WOODPILE2) (1)" doublesided="false" model="1463" interior="0" dimension="0" posX="271.39999389648" posY="-20.39999961853" posZ="1.1000000238419" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_WOODPILE2) (2)" doublesided="false" model="1463" interior="0" dimension="0" posX="271.3994140625" posY="-20.3994140625" posZ="1.1000000238419" rotX="0" rotY="0" rotZ="70"></object>
+    <object id="object (exbrtorch01) (1)" doublesided="false" model="3525" interior="0" dimension="0" posX="271.10000610352" posY="-20.39999961853" posZ="0.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (RUBBISH_BOX2) (1)" doublesided="false" model="926" interior="0" dimension="0" posX="274.20001220703" posY="-21.700000762939" posZ="1.3999999761581" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_urb_rub_5) (1)" doublesided="false" model="853" interior="0" dimension="0" posX="275.39999389648" posY="-21.299999237061" posZ="1.6000000238419" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_urb_rub_4) (1)" doublesided="false" model="852" interior="0" dimension="0" posX="271.70001220703" posY="-14.800000190735" posZ="1.1000000238419" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_urb_rub_2) (1)" doublesided="false" model="851" interior="0" dimension="0" posX="274.89999389648" posY="-14.800000190735" posZ="1.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_urb_rub_1) (1)" doublesided="false" model="850" interior="0" dimension="0" posX="275.39999389648" posY="-17.89999961853" posZ="1.2999999523163" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (cxrf_corpanel) (1)" doublesided="false" model="3302" interior="0" dimension="0" posX="273.20001220703" posY="-21.39999961853" posZ="1.2000000476837" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (smash_box_stay) (1)" doublesided="false" model="3005" interior="0" dimension="0" posX="260.29998779297" posY="-18.200000762939" posZ="0.89999997615814" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmb_plank) (1)" doublesided="false" model="2937" interior="0" dimension="0" posX="254.80000305176" posY="-24.799999237061" posZ="3.5999999046326" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmb_plank) (2)" doublesided="false" model="2937" interior="0" dimension="0" posX="254.80000305176" posY="-22.5" posZ="3.5999999046326" rotX="0" rotY="0" rotZ="0"></object>
+</map>

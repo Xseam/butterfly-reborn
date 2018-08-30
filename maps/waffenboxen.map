@@ -1,0 +1,29 @@
+<map edf:definitions="editor_main">
+    <object id="object (k_cargo4) (1)" doublesided="false" model="2972" interior="0" dimension="0" posX="241.69999694824" posY="-181.30000305176" posZ="0.30000001192093" rotX="0" rotY="0" rotZ="30"></object>
+    <object id="object (1)" doublesided="false" model="356" interior="0" dimension="0" posX="241.5" posY="-180.80000305176" posZ="1.5" rotX="85.999938964844" rotY="269.99996948242" rotZ="100"></object>
+    <object id="object (2)" doublesided="false" model="356" interior="0" dimension="0" posX="241.5" posY="-181.60000610352" posZ="1.5" rotX="85.995483398438" rotY="269.99450683594" rotZ="99.99755859375"></object>
+    <object id="object (3)" doublesided="false" model="356" interior="0" dimension="0" posX="-60.900001525879" posY="-219.80000305176" posZ="5.8000001907349" rotX="0" rotY="0" rotZ="94"></object>
+    <object id="object (4)" doublesided="false" model="356" interior="0" dimension="0" posX="-60.900001525879" posY="-219.80000305176" posZ="5.4000000953674" rotX="0" rotY="0" rotZ="93.9990234375"></object>
+    <object id="object (5)" doublesided="false" model="356" interior="0" dimension="0" posX="-60.900001525879" posY="-219.80000305176" posZ="6.1999998092651" rotX="0" rotY="0" rotZ="93.9990234375"></object>
+    <object id="object (imy_bbox) (1)" doublesided="false" model="2991" interior="0" dimension="0" posX="-62.200000762939" posY="-219.60000610352" posZ="4.3299999237061" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (6)" doublesided="false" model="356" interior="0" dimension="0" posX="2332.8000488281" posY="63.5" posZ="27" rotX="0" rotY="0" rotZ="274"></object>
+    <object id="object (7)" doublesided="false" model="356" interior="0" dimension="0" posX="2332.8000488281" posY="63.5" posZ="27.60000038147" rotX="0" rotY="0" rotZ="273.9990234375"></object>
+    <object id="object (Packing_carates04) (1)" doublesided="false" model="944" interior="0" dimension="0" posX="1352.5999755859" posY="309.10000610352" posZ="19.39999961853" rotX="0" rotY="0" rotZ="309"></object>
+    <object id="object (9)" doublesided="false" model="356" interior="0" dimension="0" posX="1351.9000244141" posY="309.20001220703" posZ="20.000000762939" rotX="90" rotY="0" rotZ="170"></object>
+    <object id="object (10)" doublesided="false" model="356" interior="0" dimension="0" posX="1352.4000244141" posY="308.79998779297" posZ="20.000000762939" rotX="90" rotY="0" rotZ="169.99694824219"></object>
+    <object id="object (11)" doublesided="false" model="356" interior="0" dimension="0" posX="1385.9000244141" posY="383.39999389648" posZ="20.299999237061" rotX="0" rotY="0" rotZ="250"></object>
+    <object id="object (12)" doublesided="false" model="356" interior="0" dimension="0" posX="1385.9000244141" posY="383.39999389648" posZ="19.89999961853" rotX="0" rotY="0" rotZ="249.99938964844"></object>
+    <object id="object (13)" doublesided="false" model="356" interior="0" dimension="0" posX="1386.0999755859" posY="383.89999389648" posZ="20.700000762939" rotX="0" rotY="0" rotZ="249.99938964844"></object>
+    <object id="object (Packing_carates04) (2)" doublesided="false" model="944" interior="0" dimension="0" posX="1385.4000244141" posY="383.70001220703" posZ="19.10000038147" rotX="0" rotY="0" rotZ="330"></object>
+    <object id="object (Packing_carates04) (1)" doublesided="false" model="944" interior="0" dimension="0" posX="-799.29998779297" posY="-826.70001220703" posZ="148" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (34)" doublesided="false" model="356" interior="0" dimension="0" posX="-799.5" posY="-826.70001220703" posZ="148.80000305176" rotX="0" rotY="0" rotZ="276"></object>
+    <object id="object (35)" doublesided="false" model="356" interior="0" dimension="0" posX="-799.5" posY="-826.70001220703" posZ="149.30000305176" rotX="0" rotY="0" rotZ="275.99853515625"></object>
+    <object id="object (bin1) (1)" doublesided="false" model="1300" interior="0" dimension="0" posX="610.5" posY="-554.70001220703" posZ="15.699999809265" rotX="0" rotY="0" rotZ="70"></object>
+    <object id="object (1)" doublesided="false" model="356" interior="0" dimension="0" posX="1106.25" posY="-316.88000488281" posZ="74.360000610352" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (2)" doublesided="false" model="356" interior="0" dimension="0" posX="1106.25" posY="-316.88000488281" posZ="74.860000610352" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (Packing_carates04) (1)" doublesided="false" model="944" interior="0" dimension="0" posX="1106.3499755859" posY="-317.23001098633" posZ="73.550003051758" rotX="0" rotY="0" rotZ="84"></object>
+    <object id="object (CJ_DF_UNIT) (1)" doublesided="false" model="939" interior="0" dimension="0" posX="1109.9000244141" posY="-320.70999145508" posZ="75.440002441406" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (CJ_DF_UNIT) (2)" doublesided="false" model="939" interior="0" dimension="0" posX="1103.3399658203" posY="-321.10000610352" posZ="75.440002441406" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bollardlight) (1)" doublesided="false" model="1215" interior="0" dimension="0" posX="1108.8199462891" posY="-315.17001342773" posZ="73.559997558594" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (2)" doublesided="false" model="1215" interior="0" dimension="0" posX="1104.4599609375" posY="-315.20001220703" posZ="73.559997558594" rotX="0" rotY="0" rotZ="0"></object>
+</map>

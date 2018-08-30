@@ -1,0 +1,36 @@
+<map edf:definitions="editor_main">
+    <object id="object (cuntyeland04) (2)" doublesided="false" model="12814" interior="0" dimension="0" posX="288.79998779297" posY="-242.60000610352" posZ="0.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (cuntyeland04) (3)" doublesided="false" model="12814" interior="0" dimension="0" posX="259.10000610352" posY="-245.39999389648" posZ="0.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (cuntyeland04) (4)" doublesided="false" model="12814" interior="0" dimension="0" posX="233.39999389648" posY="-244.69999694824" posZ="0.40999999642372" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CE_bar01) (1)" doublesided="false" model="13132" interior="0" dimension="0" posX="249.39999389648" posY="-235.30000305176" posZ="3.5999999046326" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (arprtcrprk04_lvS) (1)" doublesided="false" model="8420" interior="0" dimension="0" posX="283.10000610352" posY="-262" posZ="0.5" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (fenceshit2) (1)" doublesided="false" model="984" interior="0" dimension="0" posX="296.39999389648" posY="-222" posZ="1.1000000238419" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (fenceshit2) (2)" doublesided="false" model="984" interior="0" dimension="0" posX="283.5" posY="-222" posZ="1.1000000238419" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (fenceshit2) (3)" doublesided="false" model="984" interior="0" dimension="0" posX="270.60000610352" posY="-222" posZ="1.1000000238419" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (fenceshit2) (4)" doublesided="false" model="984" interior="0" dimension="0" posX="295.70001220703" posY="-256.29998779297" posZ="1.2000000476837" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (fenceshit2) (5)" doublesided="false" model="984" interior="0" dimension="0" posX="282.79998779297" posY="-256.29998779297" posZ="1.2000000476837" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (fenceshit2) (6)" doublesided="false" model="984" interior="0" dimension="0" posX="269.89999389648" posY="-256.29998779297" posZ="1.2000000476837" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (fenceshit2) (7)" doublesided="false" model="984" interior="0" dimension="0" posX="257" posY="-256.29998779297" posZ="1.2000000476837" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (fenceshit2) (8)" doublesided="false" model="984" interior="0" dimension="0" posX="249" posY="-256.29998779297" posZ="1.2000000476837" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (fenceshit2) (9)" doublesided="false" model="984" interior="0" dimension="0" posX="242.80000305176" posY="-249.89999389648" posZ="1.2000000476837" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgncarshade1) (1)" doublesided="false" model="3458" interior="0" dimension="0" posX="283.79998779297" posY="-254.10000610352" posZ="2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (rsdncarprk01_lvs) (1)" doublesided="false" model="8841" interior="0" dimension="0" posX="285" posY="-239.19999694824" posZ="3.5239999294281" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kb_planter_bush2) (1)" doublesided="false" model="640" interior="0" dimension="0" posX="298.89999389648" posY="-221.39999389648" posZ="1.2999999523163" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kb_planter_bush2) (2)" doublesided="false" model="640" interior="0" dimension="0" posX="288.10000610352" posY="-221.30000305176" posZ="1.2999999523163" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kb_planter_bush2) (3)" doublesided="false" model="640" interior="0" dimension="0" posX="277.39999389648" posY="-221.5" posZ="1.2999999523163" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kb_planter_bush2) (4)" doublesided="false" model="640" interior="0" dimension="0" posX="266.60000610352" posY="-221.39999389648" posZ="1.2999999523163" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kb_planter_bush2) (5)" doublesided="false" model="640" interior="0" dimension="0" posX="253.10000610352" posY="-230.60000610352" posZ="1.2000000476837" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kb_planter_bush2) (6)" doublesided="false" model="640" interior="0" dimension="0" posX="262.5" posY="-239.39999389648" posZ="1.2000000476837" rotX="0" rotY="0" rotZ="2"></object>
+    <object id="object (kb_planter_bush2) (7)" doublesided="false" model="640" interior="0" dimension="0" posX="248" posY="-244.10000610352" posZ="1.2000000476837" rotX="0" rotY="0" rotZ="271.99951171875"></object>
+    <object id="object (kb_planter_bush2) (8)" doublesided="false" model="640" interior="0" dimension="0" posX="258.70001220703" posY="-244.10000610352" posZ="1.2000000476837" rotX="0" rotY="0" rotZ="271.99951171875"></object>
+    <object id="object (DockBarr1_LA) (1)" doublesided="false" model="3578" interior="0" dimension="0" posX="301.29998779297" posY="-255.30000305176" posZ="-0.20000000298023" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (DockBarr1_LA) (2)" doublesided="false" model="3578" interior="0" dimension="0" posX="297.5" posY="-255.10000610352" posZ="-0.20000000298023" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (DockBarr1_LA) (3)" doublesided="false" model="3578" interior="0" dimension="0" posX="293.89999389648" posY="-254.89999389648" posZ="-0.20000000298023" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (DockBarr1_LA) (4)" doublesided="false" model="3578" interior="0" dimension="0" posX="290.60000610352" posY="-254.69999694824" posZ="-0.20000000298023" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (DockBarr1_LA) (5)" doublesided="false" model="3578" interior="0" dimension="0" posX="287.20001220703" posY="-254.5" posZ="-0.20000000298023" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (DockBarr1_LA) (6)" doublesided="false" model="3578" interior="0" dimension="0" posX="283.60000610352" posY="-254.30000305176" posZ="-0.20000000298023" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (DockBarr1_LA) (7)" doublesided="false" model="3578" interior="0" dimension="0" posX="280.10000610352" posY="-254.10000610352" posZ="-0.25000002980232" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (DockBarr1_LA) (8)" doublesided="false" model="3578" interior="0" dimension="0" posX="273.20001220703" posY="-253.69999694824" posZ="-0.25999999046326" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (DockBarr1_LA) (9)" doublesided="false" model="3578" interior="0" dimension="0" posX="276.5" posY="-253.60000610352" posZ="-0.25000002980232" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (rider1_door) (1)" doublesided="false" model="2959" interior="0" dimension="0" posX="243.89999389648" posY="-237.89999389648" posZ="0.60000002384186" rotX="0" rotY="0" rotZ="0"></object>
+</map>

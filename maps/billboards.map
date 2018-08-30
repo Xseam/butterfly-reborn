@@ -1,0 +1,6 @@
+<map edf:definitions="editor_main">
+    <object id="object (vgs_roadsign03) (1)" doublesided="false" model="7246" interior="0" dimension="0" posX="670.58001708984" posY="-614.35998535156" posZ="16.709999084473" rotX="0" rotY="180" rotZ="328"></object>
+    <object id="object (vgs_roadsign03) (2)" doublesided="false" model="7246" interior="0" dimension="0" posX="123.01000213623" posY="-76.690002441406" posZ="2.039999961853" rotX="0" rotY="179.99450683594" rotZ="0"></object>
+    <object id="object (vgs_roadsign03) (3)" doublesided="false" model="7246" interior="0" dimension="0" posX="121.9892578125" posY="-88.2998046875" posZ="2.039999961853" rotX="0" rotY="179.99450683594" rotZ="0"></object>
+    <object id="object (vgs_roadsign03) (4)" doublesided="false" model="7246" interior="0" dimension="0" posX="658.09997558594" posY="-610.08001708984" posZ="16.709999084473" rotX="0" rotY="179.99450683594" rotZ="327.99682617188"></object>
+</map>

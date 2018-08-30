@@ -1,0 +1,11 @@
+<map edf:definitions="editor_main">
+    <object id="object (fenceshit3) (1)" doublesided="false" model="983" interior="0" dimension="0" posX="111.63999938965" posY="-171.44999694824" posZ="1.2599999904633" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fenceshit3) (2)" doublesided="false" model="983" interior="0" dimension="0" posX="111.56999969482" posY="-157.69999694824" posZ="1.2699999809265" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (1)" doublesided="false" model="1215" interior="0" dimension="0" posX="111.43000030518" posY="-154.21000671387" posZ="1.1599999666214" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (2)" doublesided="false" model="1215" interior="0" dimension="0" posX="111.45999908447" posY="-152.30000305176" posZ="1.1599999666214" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (3)" doublesided="false" model="1215" interior="0" dimension="0" posX="111.44999694824" posY="-150.41999816895" posZ="1.1599999666214" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (4)" doublesided="false" model="1215" interior="0" dimension="0" posX="111.44999694824" posY="-148.61000061035" posZ="1.1599999666214" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fenceshit3) (3)" doublesided="false" model="983" interior="0" dimension="0" posX="102.05999755859" posY="-160.97999572754" posZ="1.9700000286102" rotX="5" rotY="0" rotZ="90"></object>
+    <object id="object (fenceshit3) (4)" doublesided="false" model="983" interior="0" dimension="0" posX="108.37999725342" posY="-160.35000610352" posZ="1.5" rotX="4.998779296875" rotY="0" rotZ="101.99545288086"></object>
+    <object id="object (bar_gatebar01) (1)" doublesided="false" model="966" interior="0" dimension="0" posX="111.5" posY="-167.88000488281" posZ="0.58999997377396" rotX="0" rotY="0" rotZ="270"></object>
+</map>

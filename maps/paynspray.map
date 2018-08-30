@@ -1,0 +1,10 @@
+<map edf:definitions="editor_main">
+    <object id="object (cxf_payspray_) (1)" doublesided="false" model="3292" interior="0" dimension="0" posX="323.5" posY="-19.5" posZ="0.60000002384186" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (des_payspint) (1)" doublesided="false" model="3293" interior="0" dimension="0" posX="318.79998779297" posY="-22.200000762939" posZ="3.7999999523163" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (crates) (1)" doublesided="false" model="18257" interior="0" dimension="0" posX="333.20001220703" posY="-23.299999237061" posZ="0.5" rotX="0" rotY="0" rotZ="110"></object>
+    <object id="object (ammotrn_obj) (1)" doublesided="false" model="3066" interior="0" dimension="0" posX="306.89999389648" posY="-24.39999961853" posZ="1.6000000238419" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ammotrn_obj) (2)" doublesided="false" model="3066" interior="0" dimension="0" posX="309.5" posY="-24.200000762939" posZ="1.6000000238419" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lasnfltrail) (1)" doublesided="false" model="3567" interior="0" dimension="0" posX="312.5" posY="-21.200000762939" posZ="1.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lastran1_LA02) (1)" doublesided="false" model="3585" interior="0" dimension="0" posX="333.10000610352" posY="-17.5" posZ="2.0999999046326" rotX="0" rotY="0" rotZ="330"></object>
+    <object id="object (lastran1_LA02) (2)" doublesided="false" model="3585" interior="0" dimension="0" posX="310.099609375" posY="-22.7998046875" posZ="4.1999998092651" rotX="0" rotY="0" rotZ="29.998168945313"></object>
+</map>

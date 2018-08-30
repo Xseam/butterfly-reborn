@@ -1,0 +1,7 @@
+<map edf:definitions="editor_main">
+    <object id="object (paypark_lan) (1)" doublesided="false" model="4642" interior="0" dimension="0" posX="349.01998901367" posY="-85.339996337891" posZ="2.0699999332428" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (int_kbsgarage2) (1)" doublesided="false" model="14826" interior="0" dimension="0" posX="373.30999755859" posY="-78.279998779297" posZ="1.1499999761581" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (hubprops1_SFS) (1)" doublesided="false" model="11393" interior="0" dimension="0" posX="353.42999267578" posY="-78.830001831055" posZ="1.9099999666214" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (hubfloorstains_SFSe) (1)" doublesided="false" model="11392" interior="0" dimension="0" posX="361.2799987793" posY="-91.639999389648" posZ="0.37999999523163" rotX="0" rotY="0" rotZ="290"></object>
+    <object id="object (hubfloorstains_SFSe) (2)" doublesided="false" model="11392" interior="0" dimension="0" posX="360.39001464844" posY="-94.23999786377" posZ="0.37999999523163" rotX="0" rotY="0" rotZ="89.9951171875"></object>
+</map>

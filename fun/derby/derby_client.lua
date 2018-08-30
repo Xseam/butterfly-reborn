@@ -1,0 +1,7 @@
+addEvent("onClientDerbyEnter", true)
+addEventHandler("onClientDerbyEnter", getRootElement(), function()
+	smoothMoveCamera(-1353.1533203125, 959.8447265625, 1036.4406738281, -1365.2991943359, 991.40423583984, 1040.1164550781, -1433.1533203125, 999.8447265625, 1036.4406738281, -1365.2991943359, 991.40423583984, 1040.1164550781, 3500)
+	setTimer(function()
+		setCameraTarget(gMe)
+	end, 4500, 1)
+end)

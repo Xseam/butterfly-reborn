@@ -1,0 +1,6 @@
+<map edf:definitions="editor_main">
+    <object id="object (mich_int_sfe) (1)" doublesided="false" model="10282" interior="0" dimension="0" posX="666.5" posY="-544.20001220703" posZ="16.299999237061" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (gasstatiohut) (1)" doublesided="false" model="11292" interior="0" dimension="0" posX="661.29998779297" posY="-537.09997558594" posZ="16.799999237061" rotX="0" rotY="0" rotZ="20"></object>
+    <object id="object (DYN_ROADBARRIER_6) (1)" doublesided="false" model="1459" interior="0" dimension="0" posX="666.5" posY="-533.70001220703" posZ="15.800000190735" rotX="0" rotY="0" rotZ="320"></object>
+    <object id="object (DYN_ROADBARRIER_6) (2)" doublesided="false" model="1459" interior="0" dimension="0" posX="662.90002441406" posY="-532.59997558594" posZ="15.800000190735" rotX="0" rotY="0" rotZ="19.998779296875"></object>
+</map>

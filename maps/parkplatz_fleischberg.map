@@ -1,0 +1,29 @@
+<map edf:definitions="editor_main">
+    <object id="object (tall_fence) (1)" doublesided="false" model="974" interior="0" dimension="0" posX="172.35000610352" posY="-275.2799987793" posZ="1.2799999713898" rotX="0" rotY="0" rotZ="280"></object>
+    <object id="object (tall_fence) (2)" doublesided="false" model="974" interior="0" dimension="0" posX="174.78999328613" posY="-281.26998901367" posZ="1.2799999713898" rotX="0" rotY="0" rotZ="303.99755859375"></object>
+    <object id="object (paypark_lan01) (1)" doublesided="false" model="4638" interior="0" dimension="0" posX="192.88999938965" posY="-324.45001220703" posZ="2.2699999809265" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (crprkblok1_LAN2) (1)" doublesided="false" model="4697" interior="0" dimension="0" posX="147.7799987793" posY="-333.04000854492" posZ="0.64999997615814" rotX="0" rotY="0" rotZ="358"></object>
+    <object id="object (crprkblok1_LAN2) (2)" doublesided="false" model="4697" interior="0" dimension="0" posX="176.17999267578" posY="-332.89001464844" posZ="0.64999997615814" rotX="0" rotY="0" rotZ="357.99499511719"></object>
+    <object id="object (crprkblok1_LAN2) (3)" doublesided="false" model="4697" interior="0" dimension="0" posX="167.36000061035" posY="-246.88999938965" posZ="0.64999997615814" rotX="0" rotY="0" rotZ="359.99499511719"></object>
+    <object id="object (crprkblok1_LAN2) (4)" doublesided="false" model="4697" interior="0" dimension="0" posX="139" posY="-247.19000244141" posZ="0.64999997615814" rotX="0" rotY="0" rotZ="359.99450683594"></object>
+    <object id="object (rsdncarprk01_lvs) (1)" doublesided="false" model="8841" interior="0" dimension="0" posX="135.49000549316" posY="-286.64999389648" posZ="3.9000000953674" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bar_gatebar01) (1)" doublesided="false" model="966" interior="0" dimension="0" posX="80.019996643066" posY="-221.07000732422" posZ="0.5799999833107" rotX="0" rotY="0" rotZ="358"></object>
+    <object id="object (fenceshit2) (1)" doublesided="false" model="984" interior="0" dimension="0" posX="101.23999786377" posY="-221.71000671387" posZ="1.210000038147" rotX="0" rotY="0" rotZ="268"></object>
+    <object id="object (fenceshit2) (2)" doublesided="false" model="984" interior="0" dimension="0" posX="88.430000305176" posY="-221.38000488281" posZ="1.2200000286102" rotX="0" rotY="0" rotZ="268.49499511719"></object>
+    <object id="object (fenceshit2) (3)" doublesided="false" model="984" interior="0" dimension="0" posX="66.580001831055" posY="-220.55000305176" posZ="1.2200000286102" rotX="0" rotY="0" rotZ="268.49487304688"></object>
+    <object id="object (fenceshit2) (4)" doublesided="false" model="984" interior="0" dimension="0" posX="53.810001373291" posY="-220.22999572754" posZ="1.210000038147" rotX="0" rotY="0" rotZ="268.49487304688"></object>
+    <object id="object (paypark_lan01) (2)" doublesided="false" model="4638" interior="0" dimension="0" posX="81.410003662109" posY="-221.61000061035" posZ="2.2699999809265" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (bar_gatebar01) (2)" doublesided="false" model="966" interior="0" dimension="0" posX="193.5693359375" posY="-323.25" posZ="0.56999999284744" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (crprkblok1_LAN2) (6)" doublesided="false" model="4697" interior="0" dimension="0" posX="79.349998474121" posY="-245.35000610352" posZ="0.64999997615814" rotX="0" rotY="0" rotZ="359.99450683594"></object>
+    <object id="object (bollardlight) (1)" doublesided="false" model="1215" interior="0" dimension="0" posX="140.83999633789" posY="-308.35000610352" posZ="1.2699999809265" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (2)" doublesided="false" model="1215" interior="0" dimension="0" posX="169.17999267578" posY="-308.01000976563" posZ="1.2699999809265" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (3)" doublesided="false" model="1215" interior="0" dimension="0" posX="112.16000366211" posY="-312.17999267578" posZ="1.2699999809265" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (4)" doublesided="false" model="1215" interior="0" dimension="0" posX="193.82000732422" posY="-315.69000244141" posZ="1.1399999856949" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (5)" doublesided="false" model="1215" interior="0" dimension="0" posX="190.35000610352" posY="-324.73999023438" posZ="1.1399999856949" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (6)" doublesided="false" model="1215" interior="0" dimension="0" posX="71.360000610352" posY="-256.38000488281" posZ="1.2699999809265" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (7)" doublesided="false" model="1215" interior="0" dimension="0" posX="102.76999664307" posY="-254.0299987793" posZ="1.2699999809265" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (8)" doublesided="false" model="1215" interior="0" dimension="0" posX="131.05000305176" posY="-258.17999267578" posZ="1.2699999809265" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (9)" doublesided="false" model="1215" interior="0" dimension="0" posX="159.61000061035" posY="-257.80999755859" posZ="1.2699999809265" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (10)" doublesided="false" model="1215" interior="0" dimension="0" posX="154.91999816895" posY="-286.17999267578" posZ="1.4500000476837" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (11)" doublesided="false" model="1215" interior="0" dimension="0" posX="117.2799987793" posY="-286.91000366211" posZ="1.4500000476837" rotX="0" rotY="0" rotZ="0"></object>
+</map>

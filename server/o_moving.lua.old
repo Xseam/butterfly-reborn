@@ -1,0 +1,74 @@
+local objects_o = {
+	[1] = "1345, 216.58999633789, -3.3399999141693, 2.3399999141693, 0, 0, 90",
+	[2] = "1345, 217.05000305176, -0.6700000166893, 2.3399999141693, 0, 0, 80",
+	[3] = "912, 162.21000671387, -56.349998474121, 1.1399999856949, 0, 0, 80",
+	[4] = "913, 162.30000305176, -53.439998626709, 1.4099999666214, 0, 0, 100",
+	[5] = "912, 189.1591796875, -138.259765625, 1.1499999761581, 0, 0, 20",
+	[6] = "912, 187.72999572754, -139.19000244141, 1.1399999856949, 0, 0, 60",
+	[7] = "1439, 144.52000427246, -135.2799987793,  0.5799999833107, 0, 0, 0",
+	[8] = "1439, -19.090000152588, -269.42999267578, 4.4299998283386, 0, 0, 0"
+}
+
+local pObjects = {}
+
+for i = 1, #objects_o, 1 do
+	local id, x, y, z, rotx, roty, rotz = gettok(objects_o[i], 1, ","), gettok(objects_o[i], 2, ","), gettok(objects_o[i], 3, ","), gettok(objects_o[i], 4, ","), gettok(objects_o[i], 5, ","), gettok(objects_o[i], 6, ","), gettok(objects_o[i], 7, ",")
+	pObjects[i] = createObject(id, x, y, z, rotx, roty, rotz)
+	setElementData(pObjects[i], "O_MOVEABLE", true)
+	addEventHandler("onElementClicked", pObjects[i],
+		function(but, stat, thePlayer)
+			if(but == "left") and (stat == "down") then
+			local x, y, z = getElementPosition(thePlayer) local x1, y1, z1 = getElementPosition(source) if(getDistanceBetweenPoints3D(x, y, z, x1, y1, z1) > 10) then return end
+		
+					setPlayerToDymObject(thePlayer, source)
+				end
+		end)
+			
+end
+outputDebugString(#objects_o.." Dynamische Objekte erstellt.")
+
+function setPlayerToDymObject(thePlayer2, element)
+	if(getElementType(element) ~= "object") then return end
+	if(getElementData(element, "O_MOVEABLE") ~= true) then return end
+	if(isElementAttached(element) == true) then
+		local aeles = getAttachedElements(element)
+		if(aeles[0] ~= thePlayer2) or (aeles[1] == thePlayer2) then else return end
+		triggerClientEvent(thePlayer2, "getObjectGroundPosition", thePlayer2, element)
+	else
+		if(getElementData(thePlayer2, "attached") == true) then return end
+		if not(getElementData(thePlayer2, "attachedElement")) then
+			attachElements(element, thePlayer2, 0, 2, 0)
+			setElementAlpha(element, 200)
+			setElementData(thePlayer2, "attachElement", element)
+			setElementData(source, "attached", true)
+		else
+			
+			if(getElementData(thePlayer2, "attachedElement") ~= element) then return end
+			
+			attachElements(element, thePlayer2, 0, 2, 0)
+			setElementAlpha(element, 200)
+			setElementData(thePlayer2, "attachElement", element)
+			setElementData(source, "attached", true)
+		end
+	end
+end
+
+addEvent("getObjectGroundPositionBack", true)
+addEventHandler("getObjectGroundPositionBack", getRootElement(),
+function(element3, Z)
+	setElementAlpha(element3, 255)
+	setElementData(source, "attachElement", nil)
+	setElementData(source, "attached", nil)
+	detachElements(element3, source)
+	local x, y, lol = getXYInFrontOfPlayer( source, 1)
+	setElementPosition( element3, x, y, Z)
+	setElementRotation( element3, rotx, roty, rotz)
+end)
+
+function getXYInFrontOfPlayer( player, distance )
+        local x, y, z = getElementPosition( player )
+        local rot = getPlayerRotation( player )
+        x = x + math.sin( math.rad( rot ) ) * distance
+        y = y + math.cos( math.rad( rot ) ) * distance
+        return x, y, z
+end

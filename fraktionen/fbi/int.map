@@ -1,0 +1,23 @@
+<map edf:definitions="editor_main">
+    <object id="object (kmb_shutter) (1)" doublesided="false" model="3055" interior="2" dimension="0" posX="2530.7900390625" posY="-1290.2800292969" posZ="1049.4899902344" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kmb_shutter) (2)" doublesided="false" model="3055" interior="2" dimension="0" posX="2530.6599121094" posY="-1298.3800048828" posZ="1049.4899902344" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kmb_shutter) (3)" doublesided="false" model="3055" interior="2" dimension="0" posX="2530.6499023438" posY="-1306.3299560547" posZ="1049.4899902344" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (lee_Plane08) (1)" doublesided="false" model="3963" interior="2" dimension="0" posX="2530.6799316406" posY="-1287.7199707031" posZ="1050.3699951172" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kb_couch02) (1)" doublesided="false" model="1703" interior="2" dimension="0" posX="2527.8798828125" posY="-1307.0300292969" posZ="1047.2900390625" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (kb_couch02) (2)" doublesided="false" model="1703" interior="2" dimension="0" posX="2529.7600097656" posY="-1304.4100341797" posZ="1047.2900390625" rotX="0" rotY="0" rotZ="259.99450683594"></object>
+    <object id="object (CJ_SPRUNK1) (1)" doublesided="false" model="1775" interior="2" dimension="0" posX="2523.2199707031" posY="-1307.0200195313" posZ="1048.3900146484" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (vendmachfd) (1)" doublesided="false" model="1302" interior="2" dimension="0" posX="2524.3601074219" posY="-1306.9899902344" posZ="1047.2900390625" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (vendin3) (1)" doublesided="false" model="1977" interior="2" dimension="0" posX="2523.0500488281" posY="-1303.9100341797" posZ="1047.2900390625" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (DYN_TABLE_03) (1)" doublesided="false" model="1516" interior="2" dimension="0" posX="2527.8898925781" posY="-1305.4300537109" posZ="1047.2900390625" rotX="0" rotY="0" rotZ="30"></object>
+    <object id="object (DYN_BEER_1) (1)" doublesided="false" model="1486" interior="2" dimension="0" posX="2526.8100585938" posY="-1299.9499511719" posZ="1048.2399902344" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_BEER_1) (2)" doublesided="false" model="1486" interior="2" dimension="0" posX="2526.8898925781" posY="-1299.8800048828" posZ="1048.2399902344" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_BEER_1) (3)" doublesided="false" model="1486" interior="2" dimension="0" posX="2526.9099121094" posY="-1299.9599609375" posZ="1048.2399902344" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_BEER_1) (4)" doublesided="false" model="1486" interior="2" dimension="0" posX="2525.9799804688" posY="-1283.7099609375" posZ="1048.2399902344" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (1)" doublesided="false" model="346" interior="2" dimension="0" posX="2526.2099609375" posY="-1288.25" posZ="1048.0899658203" rotX="90" rotY="180" rotZ="235.75"></object>
+    <object id="object (2)" doublesided="false" model="346" interior="2" dimension="0" posX="2525.919921875" posY="-1288.2099609375" posZ="1048.0899658203" rotX="90" rotY="179.99450683594" rotZ="235.74462890625"></object>
+    <object id="object (3)" doublesided="false" model="346" interior="2" dimension="0" posX="2525.919921875" posY="-1288.4599609375" posZ="1048.0899658203" rotX="90" rotY="179.99450683594" rotZ="235.74462890625"></object>
+    <object id="object (4)" doublesided="false" model="347" interior="2" dimension="0" posX="2526.7900390625" posY="-1288.6999511719" posZ="1048.0899658203" rotX="90" rotY="180" rotZ="158.00012207031"></object>
+    <object id="object (5)" doublesided="false" model="347" interior="2" dimension="0" posX="2527" posY="-1288.5300292969" posZ="1048.0899658203" rotX="90" rotY="179.99450683594" rotZ="157.99987792969"></object>
+    <object id="object (6)" doublesided="false" model="347" interior="2" dimension="0" posX="2526.7199707031" posY="-1288.2099609375" posZ="1048.0899658203" rotX="90" rotY="179.99450683594" rotZ="157.99987792969"></object>
+    <object id="object (kmb_shutter) (2)" doublesided="false" model="3055" interior="2" dimension="0" posX="2522.4599609375" posY="-1301.8000488281" posZ="1049.4899902344" rotX="0" rotY="0" rotZ="90"></object>
+</map>

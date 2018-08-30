@@ -1,0 +1,18 @@
+<map edf:definitions="editor_main">
+    <object id="object (shbbyhswall13_lvs) (1)" doublesided="false" model="9131" interior="0" dimension="0" posX="-60.479999542236" posY="-218.39999389648" posZ="5.5599999427795" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (shbbyhswall13_lvs) (2)" doublesided="false" model="9131" interior="0" dimension="0" posX="-60.479999542236" posY="-218.39999389648" posZ="7.8299999237061" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (shbbyhswall13_lvs) (3)" doublesided="false" model="9131" interior="0" dimension="0" posX="-54.599998474121" posY="-218.74000549316" posZ="5.5599999427795" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (shbbyhswall13_lvs) (4)" doublesided="false" model="9131" interior="0" dimension="0" posX="-54.58984375" posY="-218.7392578125" posZ="7.8299999237061" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tall_fence) (1)" doublesided="false" model="974" interior="0" dimension="0" posX="-57.950000762939" posY="-218.58000183105" posZ="6.210000038147" rotX="0" rotY="0" rotZ="356"></object>
+    <object id="object (tall_fence) (2)" doublesided="false" model="974" interior="0" dimension="0" posX="-73.069999694824" posY="-211.33000183105" posZ="8.9899997711182" rotX="90" rotY="180" rotZ="171.99554443359"></object>
+    <object id="object (tall_fence) (3)" doublesided="false" model="974" interior="0" dimension="0" posX="-66.519996643066" posY="-212.13000488281" posZ="8.9899997711182" rotX="90" rotY="179.99450683594" rotZ="171.99096679688"></object>
+    <object id="object (tall_fence) (4)" doublesided="false" model="974" interior="0" dimension="0" posX="-59.909999847412" posY="-213.05000305176" posZ="8.9899997711182" rotX="90" rotY="179.99450683594" rotZ="171.99096679688"></object>
+    <object id="object (tall_fence) (5)" doublesided="false" model="974" interior="0" dimension="0" posX="-58.259998321533" posY="-215.2200012207" posZ="9.039999961853" rotX="90" rotY="179.99450683594" rotZ="265.99096679688"></object>
+    <object id="object (tall_fence) (6)" doublesided="false" model="974" interior="0" dimension="0" posX="-56.860000610352" posY="-215.33999633789" posZ="9.039999961853" rotX="90" rotY="179.99450683594" rotZ="265.98999023438"></object>
+    <object id="object (tall_fence) (7)" doublesided="false" model="974" interior="0" dimension="0" posX="-56.720001220703" posY="-214.19000244141" posZ="9.039999961853" rotX="90" rotY="179.99450683594" rotZ="265.98999023438"></object>
+    <object id="object (shbbyhswall13_lvs) (4)" doublesided="false" model="9131" interior="0" dimension="0" posX="-53.680000305176" posY="-211.46000671387" posZ="5.5599999427795" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (shbbyhswall13_lvs) (4)" doublesided="false" model="9131" interior="0" dimension="0" posX="-53.659999847412" posY="-211.46000671387" posZ="7.8299999237061" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tall_fence) (8)" doublesided="false" model="974" interior="0" dimension="0" posX="1019.0300292969" posY="-285.45001220703" posZ="73.220001220703" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tall_fence) (9)" doublesided="false" model="974" interior="0" dimension="0" posX="1012.200012207" posY="-289.04998779297" posZ="72.569999694824" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (tall_fence) (10)" doublesided="false" model="974" interior="0" dimension="0" posX="1026.8499755859" posY="-308.36999511719" posZ="72.919998168945" rotX="0" rotY="0" rotZ="90"></object>
+</map>

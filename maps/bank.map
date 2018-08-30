@@ -1,0 +1,7 @@
+<map edf:definitions="editor_main">
+    <object id="object (Gen_doorINT01) (1)" doublesided="false" model="1491" interior="0" dimension="0" posX="2304.0700683594" posY="-14.800000190735" posZ="25.700000762939" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (Gen_doorINT01) (2)" doublesided="false" model="1491" interior="0" dimension="0" posX="2304.1000976563" posY="-17.799999237061" posZ="25.700000762939" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (1)" doublesided="false" model="970" interior="0" dimension="0" posX="2304" posY="-14.39999961853" posZ="26.10000038147" rotX="0" rotY="90" rotZ="270"></object>
+    <object id="object (DYN_GARAGE_DOOR) (1)" doublesided="false" model="1508" interior="0" dimension="0" posX="2315.5" posY="0.69999998807907" posZ="27.39999961853" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (sec_keypad) (1)" doublesided="false" model="2886" interior="0" dimension="0" posX="2314.3999023438" posY="0.20000000298023" posZ="27.10000038147" rotX="0" rotY="0" rotZ="0"></object>
+</map>

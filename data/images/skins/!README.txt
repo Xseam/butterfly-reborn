@@ -1,0 +1,1 @@
+Diese Skins wurden von MuLTi erstellt. Man kann sie frei verwenden, wenn man den Ersteller in den Credits/Informationsseite etc. Angibt. NICHT VEROEFFENTLICHEN!

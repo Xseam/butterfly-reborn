@@ -1,0 +1,10 @@
+<map edf:definitions="editor_main">
+    <object id="object (CJ_ASHTRAY_b) (1)" doublesided="false" model="1549" interior="0" dimension="0" posX="1243.6199951172" posY="352.66000366211" posZ="18.549999237061" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_ASHTRAY_b) (4)" doublesided="false" model="1549" interior="0" dimension="0" posX="1243.6099853516" posY="352.64999389648" posZ="19.35000038147" rotX="0" rotY="0" rotZ="342"></object>
+    <object id="object (CJ_ASHTRAY_b) (5)" doublesided="false" model="1549" interior="0" dimension="0" posX="226.49000549316" posY="-180.5299987793" posZ="0.5799999833107" rotX="0" rotY="0" rotZ="341.99890136719"></object>
+    <object id="object (CJ_ASHTRAY_b) (6)" doublesided="false" model="1549" interior="0" dimension="0" posX="226.49000549316" posY="-180.50999450684" posZ="1.3799999952316" rotX="0" rotY="0" rotZ="341.99890136719"></object>
+    <object id="object (CJ_ASHTRAY_b) (7)" doublesided="false" model="1549" interior="0" dimension="0" posX="2265.8500976563" posY="35.700000762939" posZ="25.479999542236" rotX="0" rotY="0" rotZ="341.99890136719"></object>
+    <object id="object (CJ_ASHTRAY_b) (8)" doublesided="false" model="1549" interior="0" dimension="0" posX="2265.830078125" posY="35.700000762939" posZ="26.280000686646" rotX="0" rotY="0" rotZ="341.99890136719"></object>
+    <object id="object (CJ_ASHTRAY_b) (9)" doublesided="false" model="1549" interior="0" dimension="0" posX="687.63000488281" posY="-643.88000488281" posZ="15.260000228882" rotX="0" rotY="0" rotZ="341.99890136719"></object>
+    <object id="object (CJ_ASHTRAY_b) (10)" doublesided="false" model="1549" interior="0" dimension="0" posX="687.65997314453" posY="-643.84002685547" posZ="16.059999465942" rotX="0" rotY="0" rotZ="341.99890136719"></object>
+</map>

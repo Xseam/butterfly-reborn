@@ -1,0 +1,14 @@
+<map edf:definitions="editor_main">
+    <object id="object (int_kbsgarage2) (1)" doublesided="false" model="14826" interior="0" dimension="0" posX="150.7200012207" posY="-161.2200012207" posZ="1.3400000333786" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (hubprops6_SFSe) (1)" doublesided="false" model="11391" interior="0" dimension="0" posX="161.86999511719" posY="-156.28999328613" posZ="1.75" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (fencesmallb) (1)" doublesided="false" model="970" interior="0" dimension="0" posX="137.99000549316" posY="-155.33000183105" posZ="1.1299999952316" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (2)" doublesided="false" model="970" interior="0" dimension="0" posX="137.91999816895" posY="-176.72999572754" posZ="1.1299999952316" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (3)" doublesided="false" model="970" interior="0" dimension="0" posX="152.32000732422" posY="-181.49000549316" posZ="1.1399999856949" rotX="0" rotY="0" rotZ="190"></object>
+    <object id="object (fencesmallb) (4)" doublesided="false" model="970" interior="0" dimension="0" posX="156.27000427246" posY="-180.13000488281" posZ="1.1299999952316" rotX="0" rotY="0" rotZ="207.99755859375"></object>
+    <object id="object (bollardlight) (1)" doublesided="false" model="1215" interior="0" dimension="0" posX="144.88000488281" posY="-159.30999755859" posZ="1.1499999761581" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (2)" doublesided="false" model="1215" interior="0" dimension="0" posX="142.5" posY="-174.38999938965" posZ="1.1399999856949" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (3)" doublesided="false" model="1215" interior="0" dimension="0" posX="162.38000488281" posY="-159.99000549316" posZ="1.1399999856949" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (4)" doublesided="false" model="1215" interior="0" dimension="0" posX="162.2799987793" posY="-178.69999694824" posZ="1.1399999856949" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (5)" doublesided="false" model="1215" interior="0" dimension="0" posX="154.55999755859" posY="-181.55000305176" posZ="1.1399999856949" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (6)" doublesided="false" model="1215" interior="0" dimension="0" posX="154.74000549316" posY="-159.33000183105" posZ="0.62000000476837" rotX="0" rotY="0" rotZ="0"></object>
+</map>

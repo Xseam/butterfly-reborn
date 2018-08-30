@@ -1,0 +1,26 @@
+<map edf:definitions="editor_main">
+    <object id="object (sw_logcover) (1)" doublesided="false" model="3403" interior="0" dimension="0" posX="658.98999023438" posY="-678.03002929688" posZ="18.10000038147" rotX="0" rotY="0" rotZ="40"></object>
+    <object id="object (DYN_F_R_WOOD_1b) (1)" doublesided="false" model="1410" interior="0" dimension="0" posX="659.23999023438" posY="-682.67999267578" posZ="15.199999809265" rotX="0" rotY="0" rotZ="30"></object>
+    <object id="object (DYN_F_R_WOOD_1b) (2)" doublesided="false" model="1410" interior="0" dimension="0" posX="665.36999511719" posY="-677.78002929688" posZ="15.829999923706" rotX="0" rotY="0" rotZ="79.998168945313"></object>
+    <object id="object (DYN_F_R_WOOD_1b) (3)" doublesided="false" model="1410" interior="0" dimension="0" posX="658.54998779297" posY="-672.20001220703" posZ="16.270000457764" rotX="0" rotY="0" rotZ="209.99694824219"></object>
+    <object id="object (DYN_F_R_WOOD_1b) (4)" doublesided="false" model="1410" interior="0" dimension="0" posX="654.10998535156" posY="-675.71997070313" posZ="16.059999465942" rotX="0" rotY="0" rotZ="227.99267578125"></object>
+    <object id="object (smashbarpost) (1)" doublesided="false" model="1250" interior="0" dimension="0" posX="657.21997070313" posY="-677.66998291016" posZ="14.939999580383" rotX="0" rotY="0" rotZ="16"></object>
+    <object id="object (oldwoodpanel) (1)" doublesided="false" model="3260" interior="0" dimension="0" posX="661.22998046875" posY="-672.61999511719" posZ="16.409999847412" rotX="0" rotY="0" rotZ="130"></object>
+    <object id="object (oldwoodpanel) (2)" doublesided="false" model="3260" interior="0" dimension="0" posX="662.66998291016" posY="-673.47998046875" posZ="16.219999313354" rotX="338" rotY="0" rotZ="111.99572753906"></object>
+    <object id="object (oldwoodpanel) (3)" doublesided="false" model="3260" interior="0" dimension="0" posX="663.71002197266" posY="-680.10998535156" posZ="14.970000267029" rotX="274.25018310547" rotY="180" rotZ="299.99981689453"></object>
+    <object id="object (grasshouse) (1)" doublesided="false" model="3261" interior="0" dimension="0" posX="654.08001708984" posY="-680.60998535156" posZ="14.119999885559" rotX="0" rotY="0" rotZ="100"></object>
+    <object id="object (CJ_CARDBRD_PICKUP) (1)" doublesided="false" model="1558" interior="0" dimension="0" posX="656.44000244141" posY="-675.39001464844" posZ="15.949999809265" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_CARDBRD_PICKUP) (2)" doublesided="false" model="1558" interior="0" dimension="0" posX="657.46002197266" posY="-674.59002685547" posZ="15.949999809265" rotX="0" rotY="0" rotZ="50"></object>
+    <object id="object (CJ_CARDBRD_PICKUP) (3)" doublesided="false" model="1558" interior="0" dimension="0" posX="657.75" posY="-675.84002685547" posZ="15.880000114441" rotX="0" rotY="0" rotZ="49.998779296875"></object>
+    <object id="object (CJ_CARDBRD_PICKUP) (4)" doublesided="false" model="1558" interior="0" dimension="0" posX="658.78002929688" posY="-674.70001220703" posZ="15.909999847412" rotX="0" rotY="0" rotZ="49.998779296875"></object>
+    <object id="object (CJ_CARDBRD_PICKUP) (5)" doublesided="false" model="1558" interior="0" dimension="0" posX="659.44000244141" posY="-672.78002929688" posZ="16.020000457764" rotX="0" rotY="0" rotZ="89.998779296875"></object>
+    <object id="object (Flame_tins) (1)" doublesided="false" model="2057" interior="0" dimension="0" posX="657.78002929688" posY="-675.96997070313" posZ="16.510000228882" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_SHOVEL) (1)" doublesided="false" model="2228" interior="0" dimension="0" posX="659.03997802734" posY="-675.32000732422" posZ="15.89999961853" rotX="0" rotY="0" rotZ="200"></object>
+    <object id="object (CJ_SHOVEL) (2)" doublesided="false" model="2228" interior="0" dimension="0" posX="659.33001708984" posY="-674.94000244141" posZ="15.89999961853" rotX="0" rotY="0" rotZ="199.9951171875"></object>
+    <object id="object (CJ_SHOVEL) (3)" doublesided="false" model="2228" interior="0" dimension="0" posX="658.34997558594" posY="-676.15997314453" posZ="15.89999961853" rotX="0" rotY="0" rotZ="199.9951171875"></object>
+    <object id="object (CJ_SHOVEL) (4)" doublesided="false" model="2228" interior="0" dimension="0" posX="657.95001220703" posY="-676.59002685547" posZ="15.89999961853" rotX="0" rotY="0" rotZ="199.9951171875"></object>
+    <object id="object (CJ_FIRE_EXT) (1)" doublesided="false" model="2690" interior="0" dimension="0" posX="658.61999511719" posY="-674.65997314453" posZ="16.729999542236" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_FIRE_EXT) (2)" doublesided="false" model="2690" interior="0" dimension="0" posX="659.27001953125" posY="-673.28002929688" posZ="16.840000152588" rotX="0" rotY="0" rotZ="30"></object>
+    <object id="object (CJ_PISTOL_AMMO) (1)" doublesided="false" model="2037" interior="0" dimension="0" posX="656.36999511719" posY="-675.73999023438" posZ="16.479999542236" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_PISTOL_AMMO) (2)" doublesided="false" model="2037" interior="0" dimension="0" posX="656.57000732422" posY="-675.60998535156" posZ="16.479999542236" rotX="0" rotY="0" rotZ="30"></object>
+</map>

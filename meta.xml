@@ -1,0 +1,844 @@
+<meta>
+	<info author="MuLTi" type="gamemode" />
+	<file src="info.txt"/>
+
+	<script src="client/start.lua" type="client" />
+	<script src="client/ampeln.lua" type="client" />
+	<script src="client/selfmenue.lua" type="client" />
+	<script src="client/selfmenue_s.lua" type="server" />
+	<script src="client/billboards.lua" type="client" />
+	<script src="client/tutorial.lua" type="client" />
+	<script src="client/hilfemenue.lua" type="client" />
+	<script src="client/nodmzonen.lua" type="client" />
+	<script src="client/settings_client.lua" type="client" />
+	<script src="client/nametags.lua" type="client" />
+	<script src="client/hunger.lua" type="client" />
+	<script src="client/inventar.lua" type="client" />
+	<script src="client/ego_client.lua" type="client" />
+	<script src="client/inventar_s.lua" type="server" />
+	<script src="client/choke/client.lua" type="client" />	
+	<file src="client/choke/shad.fx" type="client"/>
+	<script src="client/ambientsounds.lua" type="client" />
+	<script src="client/spawnchange_c.lua" type="client" />
+	<script src="client/laser.lua" type="client" />
+	<script src="client/moving_objects.lua" type="client" />
+	
+	<script src="animations/client.lua" type="client"/>
+	<script src="animations/server.lua" type="server"/>
+	
+	<!-- <script src="blinker/server.lua" type="server"/> -->
+	
+	<script src="intro/client.lua" type="client"/>
+	<script src="intro/server.lua" type="server"/>
+	
+	<script src="kleidung/client.lua" type="client"/>
+	<script src="kleidung/server.lua" type="server"/>
+	<script src="kleidung/both.lua" type="client"/>
+	<script src="kleidung/both.lua" type="server"/>
+	
+	<script src="jobs/auslieferung/client.lua" type="client" />
+	<script src="jobs/auslieferung/server.lua" type="server" />
+	<script src="jobs/trucker/trucker_client.lua" type="client" />
+	<script src="jobs/trucker/trucker_server.lua" type="server" />
+	<script src="jobs/bus/client.lua" type="client" />
+	<script src="jobs/bus/server.lua" type="server" />
+	<script src="jobs/waffen/client.lua" type="client" />
+	<script src="jobs/waffen/server.lua" type="server" />
+	<script src="jobs/settings_c.lua" type="client" />
+		
+	<script src="show/infolabel.lua" type="client" />
+	<script src="show/hud_c.lua" type="client" />
+	<script src="show/click_sys.lua" type="client" />
+	<script src="show/3dtext.lua" type="client" />
+	
+	<script src="register/c_register.lua" type="client" />	
+	<script src="register/s_register.lua" type="server" />	
+	
+	<script src="firma/firma_server.lua" type="server" />	
+	<script src="firma/firma_client.lua" type="client" />	
+	<script src="firma/settings_server.lua" type="server" />	
+	<script src="firma/settings.lua" type="client" />	
+	<script src="firma/settings.lua" type="server" />
+	
+	<script src="server/spawn_server.lua" tpye="server" />
+	<script src="server/messages.lua" tpye="server" />
+	<script src="server/realtime.lua" type="server" />
+	<script src="server/wetter.lua" type="server" />
+	<script src="server/atms.lua" type="server" />
+	<script src="server/blips.lua" type="server" />
+	<script src="server/misc.lua" type="server" />
+	<script src="server/zone.lua" type="server" />
+	<script src="server/baustellen.lua" type="server" />
+	<script src="server/chat.lua" type="server" />
+	<script src="server/settings.lua" type="server" />
+	<script src="server/ad.lua" type="server" />
+	<script src="server/ad_client.lua" type="client" />
+	<script src="server/weapons.lua" type="server" />
+	<script src="server/payday.lua" type="server" />
+	<script src="server/carenter.lua" type="server" />
+	<script src="server/o_moving.lua" type="server" />
+
+	<script src="waffenbox/waffenb.lua" type="server" />
+	<script src="waffenbox/waffenb_client.lua" type="client" />
+	
+	<script src="clicksys/car_click.lua" type="server" />
+	<script src="clicksys/car_click_c.lua" type="client" />
+	<script src="clicksys/user_click.lua" type="server" />
+	<script src="clicksys/user_click_c.lua" type="client" />
+	<script src="clicksys/objects.lua" type="server" />
+	<script src="clicksys/objects_c.lua" type="client" />
+	
+	<script src="experimental/debug.lua" type="server" />
+
+	<script src="prestige/prestige_s.lua" type="server" />
+	<script src="prestige/prestige_c.lua" type="client" />
+	
+	
+	<script src="server/gebaeude/restaurantpal_server.lua" type="server"/>
+	<script src="server/gebaeude/restaurantpal_client.lua" type="client"/>
+	<script src="server/gebaeude/rathaus.lua" type="server"/>
+	<script src="server/gebaeude/rathaus_c.lua" type="client"/>
+	<script src="server/gebaeude/khaus_c.lua" type="client"/>	
+	<script src="server/gebaeude/ammunation_c.lua" type="client"/>	
+	<script src="server/gebaeude/ammunation.lua" type="server"/>	
+	<script src="server/gebaeude/ammunation_both.lua" type="server"/>		
+	<script src="server/gebaeude/ammunation_both.lua" type="client"/>		
+	<script src="server/gebaeude/pizza.lua" type="server"/>	
+	<script src="server/gebaeude/pizza_c.lua" type="client"/>	
+	<script src="server/gebaeude/alhambra.lua" type="server"/>	
+	<script src="server/gebaeude/alhambra_c.lua" type="client"/>	
+	<script src="server/gebaeude/laden_c.lua" type="client"/>	
+	<script src="server/gebaeude/laden.lua" type="server"/>	
+	<script src="server/gebaeude/paynspray.lua" type="server"/>	
+	<script src="server/gebaeude/paynspray_dillimore.lua" type="server"/>		
+	<script src="server/gebaeude/paynspray_blueberry.lua" type="server"/>	
+	<script src="server/gebaeude/bshot.lua" type="server"/>	
+	<script src="server/gebaeude/bshot_c.lua" type="client"/>	
+	<script src="server/gebaeude/bar.lua" type="server"/>	
+	<script src="server/gebaeude/bar_c.lua" type="client"/>	
+	<script src="server/gebaeude/baumarkt_c.lua" type="client"/>	
+	<script src="server/gebaeude/baumarkt.lua" type="server"/>	
+	<script src="server/gebaeude/rennstrecke.lua" type="server"/>	
+	<script src="server/gebaeude/rennstrecke_c.lua" type="client"/>	
+	<script src="server/gebaeude/parkplatz_server.lua" type="server"/>	
+	<script src="server/gebaeude/parkplatz_client.lua" type="client"/>	
+	<script src="report/server.lua" type="server"/>
+	<script src="report/client.lua" type="client"/>
+	
+
+	<script src="admin/admincmds.lua" type="server"/>	
+	<script src="admin/admin_s.lua" type="server"/>
+	<script src="admin/admin_c.lua" type="client"/>	
+	
+	<script src="fun/angel/client.lua" type="client"/>
+	<script src="fun/angel/server.lua" type="server"/>
+	<script src="fun/derby/derby.lua" type="server"/>
+	<script src="fun/derby/derby_client.lua" type="client" />
+	
+	<script src="sammel/client.lua" type="client"/>
+	<script src="sammel/server.lua" type="server"/>
+	
+	<file src="data/images/textures/vgsn_billboard.txd" />
+	<file src="data/images/rcnr.png" />
+	<file src="data/images/burgershot.png" />
+	<file src="data/images/rcpd.png" />
+	<file src="data/images/logo.png" />
+	<file src="data/images/tafel.jpg" />
+	<file src="data/images/trans.png" />
+	<file src="data/images/blood.png" />
+	<file src="data/images/dyncursor.png" />
+	<file src="data/images/trophy.png" />
+	<file src="data/images/dot_schwarz.png" />
+	<file src="data/images/pizza/logo.png" />
+	<file src="data/images/carsys/lock.png" />
+	<file src="data/images/carsys/light.png" />
+	<file src="data/images/carsys/engine.png" />
+	<file src="data/images/carsys/steifen.png" />
+	
+	<file src="data/images/firma/1.png" />
+	<file src="data/images/firma/2.png" />
+
+	<file src="data/images/baumarkt/campfire.png" />
+	<file src="data/images/baumarkt/grill.png" />
+	<file src="data/images/baumarkt/fackel.png" />
+	<file src="data/images/baumarkt/liege.png" />
+		
+	<file src="data/images/prestige/statue.png" />
+	<file src="data/images/prestige/soldout.png" />
+	<file src="data/images/prestige/industry.png" />
+	
+	<file src="data/images/inv/wuerfel.png" />
+	<file src="data/images/inv/barrikade.png" />
+	<file src="data/images/inv/zeitung.png" />
+	<file src="data/images/inv/bier.png" />
+	<file src="data/images/inv/zigarette.png" />
+	<file src="data/images/inv/geld.png" />
+	<file src="data/images/inv/car.png" />
+	<file src="data/images/inv/bike.png" />
+	<file src="data/images/inv/boot.png" />
+	<file src="data/images/inv/fisch.png" />
+	<file src="data/images/inv/helikopter.png" />
+	<file src="data/images/inv/flugzeug.png" />
+	<file src="data/images/inv/truck.png" />
+	<file src="data/images/inv/rechnung.png" />
+	<file src="data/images/inv/ausweis.png" />
+	<file src="data/images/inv/perso.png" />
+	<file src="data/images/inv/kisten.png" />
+	<file src="data/images/inv/bretter.png" />
+	<file src="data/images/inv/computer.png" />
+	<file src="data/images/inv/feuer.png" />
+	<file src="data/images/inv/unknow.png" />
+	<file src="data/images/inv/drug.png" />
+	<file src="data/images/inv/mats.png" />
+	<file src="data/images/inv/fish.png" />
+	<file src="data/images/inv/angel.png" />
+	<file src="data/images/inv/kanister.png" />
+	<file src="data/images/inv/erstehilfe.png" />
+	<file src="data/images/inv/radio.png" />
+
+	
+	
+	<file src="data/carmods/swat.dff" />
+	<file src="data/carmods/swat.txd" />
+	<file src="data/carmods/newsvan.txd" />
+	<file src="data/images/carmods/pd.fx" />
+	<file src="data/images/carmods/pd.png" />
+	
+	<file src="data/images/radar.png" />
+	<file src="data/shader.fx" />
+	
+	<file src="tazer/silenced.dff" />
+    <file src="tazer/silenced.txd" />
+    <script src="tazer/silenced.lua" type="client" />
+	<file src="tazer/fbitruck.dff" />
+		
+	<file src="sounds/click.wav"/>
+	<file src="sounds/bankrob.mp3"/>
+	<file src="sounds/rocket.mp3"/>
+	<file src="sounds/camera.mp3"/>
+	<file src="sounds/use.wav"/>
+	<file src="sounds/open.wav"/>
+	<file src="sounds/error.wav"/>
+	<file src="sounds/EngineStart.mp3"/>
+	<file src="sounds/EngineStop.mp3"/>
+	<file src="sounds/switch.wav"/>
+	<file src="sounds/carlock.mp3"/>
+	<file src="sounds/portalradio.mp3"/>
+	<file src="sounds/tazer.mp3"/>
+	<file src="sounds/calm2.mp3"/>
+	<file src="sounds/countdown.mp3"/>
+	<file src="sounds/ambient/ambient1.mp3"/>
+	<file src="sounds/ambient/ambient2.mp3"/>
+	<file src="sounds/ambient/ambient3.mp3"/>
+	<file src="sounds/ambient/ambient4.mp3"/>
+	
+	<file src="sounds/war/explo1.mp3"/>
+	<file src="sounds/war/explo2.mp3"/>
+	<file src="sounds/war/rocket.mp3"/>
+	<file src="sounds/war/sho1.mp3"/>
+	<file src="sounds/war/war1.mp3"/>
+	
+	<file src="sounds/glas/glas1.mp3"/>
+	<file src="sounds/glas/glas2.mp3"/>
+	<file src="sounds/glas/glas3.mp3"/>
+	<file src="sounds/glas/glas4.mp3"/>
+	<file src="sounds/glas/glas5.mp3"/>
+	<file src="sounds/glas/glas6.mp3"/>
+	<file src="sounds/glas/glas7.mp3"/>
+	
+	<file src="sounds/bullets/bul1.mp3"/>
+	<file src="sounds/bullets/bul2.mp3"/>
+	<file src="sounds/bullets/bul3.mp3"/>
+	<file src="sounds/bullets/bul4.mp3"/>
+	<file src="sounds/bullets/bul5.mp3"/>
+	
+	<file src="sounds/handy/1.mp3"/>
+	<file src="sounds/handy/2.mp3"/>
+	<file src="sounds/handy/3.mp3"/>
+	<file src="sounds/handy/4.mp3"/>
+	<file src="sounds/handy/5.mp3"/>
+	<file src="sounds/handy/6.mp3"/>
+	<file src="sounds/handy/7.mp3"/>
+	<file src="sounds/handy/8.mp3"/>
+	<file src="sounds/handy/9.mp3"/>
+	<file src="sounds/handy/sonder1.mp3"/>
+	<file src="sounds/handy/sonder2.mp3"/>
+	<file src="sounds/handy/0.mp3"/>
+	<file src="sounds/handy/wrong.mp3"/>
+	
+	<file src="data/nFont.ttf"/>
+	<file src="data/impact.ttf"/>
+	<file src="data/agency.ttf"/>
+	<file src="data/prestigeFont.ttf"/>
+	<file src="data/tachoFont.ttf"/>
+	
+	
+	
+	<map src="maps/haeuser/Haus1.map" dimension="0"></map>
+	<map src="maps/haeuser/Multishaus.map" dimension="0"></map>
+	<map src="maps/haeuser/Snaphaus.map" dimension="0"></map>
+	<map src="maps/haeuser/deekay.map" dimension="0"></map>
+	<script src="maps/hgates.lua" type="server" />
+	<script src="maps/house_streams.lua" type="client" />
+	<map src="maps/Rennstrecke.map" dimension="0"></map>
+	<map src="maps/rennstreckeeingang.map" dimension="0"></map>
+	<map src="maps/blitzer.map" dimension="0"></map>
+	<map src="maps/Jails.map" dimension="0"></map>
+	<map src="maps/restaurant.map" dimension="0"></map>
+	<map src="maps/billboards.map" dimension="0"></map>
+	<map src="maps/krieg.map" dimension="1"></map>
+	<map src="maps/pennerspawn.map" dimension="0"></map>
+	<map src="maps/carpaint.map" dimension="0"></map>
+	<map src="maps/rathaus.map" dimension="0"></map>	
+	<map src="maps/alhambra.map" dimension="0"></map>	
+	<map src="maps/tuninggarage.map" dimension="0"></map>	
+	<map src="maps/paynspray.map" dimension="0"></map>
+	<map src="maps/Verschoenerung.map" dimension="0"></map>
+	<map src="maps/bank.map" dimension="0"></map>
+	<map src="maps/waffenboxen.map" dimension="0"></map>
+	<map src="maps/carhandler.map" dimension="0"></map>
+	<map src="maps/carhandler2.map" dimension="0"></map>
+	<map src="maps/Haeuserreihe.map" dimension="0"></map>
+	<map src="maps/schmied.map" dimension="0"></map>
+	<map src="maps/bushalten.map" dimension="0"></map>
+	<map src="maps/parkplatz_fleischberg.map" dimension="0"></map>
+	<script src="maps/pennerspawn.lua" type="client"/>
+	<script src="maps/removedobjects.lua" type="server"/>
+	
+	<script src="tempomat/client.lua" type="client" />
+
+	<script src="server/fahrzeuge/noobspawn.lua" type="server"/>
+	<script src="server/fahrzeuge/freecars.lua" type="server"/>
+	<script src="server/fahrzeuge/commands.lua" type="server"/>
+	
+	<script src="handy/s_handy.lua" type="server"/>
+	<script src="handy/c_handy.lua" type="client"/>
+	
+	<script src="brett/brett_s.lua" type="server"/>
+	<script src="brett/brett_c.lua" type="client"/>
+	
+	<script src="schmied/client.lua" type="client"/>
+	<script src="schmied/server.lua" type="server"/>
+	
+	<script src="carsys/car_func.lua" type="server"/>
+	
+	<script src="carsys/fuel.lua" type="server"/>
+	
+	<script src="carsys/fuel_client.lua" type="client"/>
+	<script src="carsys/car_func_c.lua" type="client"/>
+	<script src="carsys/tacho.lua" type="client"/>
+	<script src="carsys/settings.lua" type="client"/>
+	<script src="carsys/glue_client.lua" type="client"/>
+	<script src="carsys/glue_server.lua" type="server"/>
+	
+	<script src="carsys/tuning/tuning_s.lua" type="server"/>
+	<script src="carsys/tuning/tuning_c.lua" type="client"/>
+	<script src="carsys/tuning/tuninglist_both.lua" type="server"/>
+	<script src="carsys/tuning/tuninglist_both.lua" type="client"/>
+	
+	<script src="both/settings.lua" type="client" />
+	<script src="both/settings.lua" type="server" />
+	
+	<script src="radio/veh_client.lua" type="client"/>
+	<script src="radio/veh_server.lua" type="server"/>
+	<script src="radio/radio_client.lua" type="client"/>
+	<script src="radio/radio_server.lua" type="server"/>
+	
+	<script src="krankenhaus/khaus_client.lua" type="client"/>
+	<script src="krankenhaus/khaus_server.lua" type="server"/>
+	
+	<script src="autohandler/auto_c.lua" type="client"/>
+	<script src="autohandler/auto.lua" type="server"/>
+	<script src="autohandler/settings_both.lua" type="server"/>
+	<script src="autohandler/settings_both.lua" type="client"/>
+
+	<script src="fraktionen/global.lua" type="server" />
+	<script src="fraktionen/bankrob.lua" type="server" />
+	<script src="fraktionen/bankrob_client.lua" type="client" />
+	<script src="fraktionen/waffentruck.lua" type="server" />
+	<script src="fraktionen/teamchat.lua" type="server" />
+	<script src="fraktionen/fraktionspc.lua" type="server" />
+	<script src="fraktionen/fraktionspc_c.lua" type="client" />
+	<script src="fraktionen/drugs.lua" type="server" />
+	<script src="fraktionen/drugs_client.lua" type="client" />
+	
+	<script src="fraktionen/area51/server.lua" type="server"/>
+	<script src="fraktionen/area51/autos.lua" type="server"/>
+	<script src="fraktionen/area51/client.lua" type="client"/>
+	<map src="fraktionen/area51/map.map" dim="0" />
+	
+	<script src="fraktionen/staende/client_gangs.lua" type="client"/>
+	<script src="fraktionen/staende/server_gangs.lua" type="server"/>
+	<map src="fraktionen/staende/gangs.map" dim="0" />
+	
+	<script src="bank/bank.lua" type="server" />
+	<script src="bank/bank_client.lua" type="client" />
+	
+	<file src="logs/info.txt" />
+	
+	<script src="blitzer/server.lua" type="server" />
+	<script src="blitzer/client.lua" type="client" />
+	
+	<!-- Shader Water  -->
+	<script src="shaders/water/c_water.lua" type="client" />
+	<file src="shaders/water/water.fx" type="client" />
+	<file src="shaders/water/mta-helper.fx" type="client" />
+	<file src="shaders/water/images/smallnoise3d.dds" type="client" />
+	<file src="shaders/water/images/cube_env256.dds" type="client" />
+	<!-- Shader eehm Contrast -->
+	
+	<script src="shaders/contrast/c_switch.lua" type="client" />
+	<script src="shaders/contrast/c_contrast.lua" type="client" />
+	<script src="shaders/contrast/c_rtpool.lua" type="client" />
+		
+	<file src="shaders/contrast/fx/bloom_combine.fx" type="client" />
+	<file src="shaders/contrast/fx/bloom_extract.fx" type="client" />
+	<file src="shaders/contrast/fx/blurH.fx" type="client" />
+	<file src="shaders/contrast/fx/blurV.fx" type="client" />
+	<file src="shaders/contrast/fx/contrast.fx" type="client" />
+	<file src="shaders/contrast/fx/modulation.fx" type="client" />
+	<file src="shaders/contrast/fx/mta-helper.fx" type="client" />
+	
+	<script src="shaders/client.lua" type="client" />
+	
+	<!-- Shader Carpaint -->
+	<script src="shaders/carpaint/c_car_paint.lua" type="client" />
+	<file src="shaders/carpaint/car_paint.fx" type="client" />
+	<file src="shaders/carpaint/mta-helper.fx" type="client" />
+	<file src="shaders/carpaint/images/smallnoise3d.dds" type="client" />
+	<file src="shaders/carpaint/images/cube_env256.dds" type="client" />
+
+
+
+	<file src="shaders/contrast/images/vignette1.dds" type="client" />
+	<!-- Shader Roadshine -->
+	
+	<script src="shaders/roadshine/c_roadshine3.lua" type="client" />
+	<file src="shaders/roadshine/roadshine3.fx" type="client" />
+	<file src="shaders/roadshine/mta-helper.fx" type="client" />
+	<!-- Shader Bloom -->
+	
+	<script src="shaders/bloom/c_bloom.lua" type="client" />
+	<file src="shaders/bloom/addBlend.fx" type="client" />
+	<file src="shaders/bloom/blurH.fx" type="client" />
+	<file src="shaders/bloom/blurV.fx" type="client" />
+	<file src="shaders/bloom/brightPass.fx" type="client" />
+	<file src="shaders/bloom/mta-helper.fx" type="client" />
+	
+	<!-- Shader Nitro -->
+	
+	<script src="shaders/nitro/client.lua" type="client" />
+	<file src="shaders/nitro/nitro.fx" />
+	
+	<script src="fraktionen/yakuza/tor.lua" type="server" />
+	<script src="fraktionen/yakuza/autos.lua" type="server" />
+	<script src="fraktionen/yakuza/paynspray.lua" type="server" />
+	<script src="fraktionen/yakuza/funktionen.lua" type="server" />
+	<script src="fraktionen/yakuza/func_client.lua" type="client" />
+	<map src="fraktionen/yakuza/map.map" dimension="0"></map>
+	<map src="fraktionen/yakuza/paynspray.map" dimension="0"></map>
+
+	<script src="fraktionen/terroristen/tor.lua" type="server" />
+	<script src="fraktionen/terroristen/autos.lua" type="server" />
+	<script src="fraktionen/terroristen/funktionen.lua" type="server" />
+	<script src="fraktionen/terroristen/func_client.lua" type="client" />
+	<script src="fraktionen/terroristen/rocket_client.lua" type="client" />
+	<map src="fraktionen/terroristen/map.map" dimension="0"></map>
+
+	
+	<script src="fraktionen/fahrschule/tor.lua" type="server" />
+	<script src="fraktionen/fahrschule/autos.lua" type="server" />
+	<script src="fraktionen/fahrschule/funktionen.lua" type="server" />
+	<script src="fraktionen/fahrschule/func_client.lua" type="client" />
+	<map src="fraktionen/fahrschule/map.map" dimension="0"></map>
+	
+	<script src="fraktionen/rcpd/tor.lua" type="server" />
+	<script src="fraktionen/rcpd/autos.lua" type="server" />
+	<script src="fraktionen/rcpd/funktionen.lua" type="server" />
+	<script src="fraktionen/rcpd/func_client.lua" type="client" />
+	<script src="fraktionen/rcpd/computer_c.lua" type="client" />
+	<script src="fraktionen/rcpd/computer.lua" type="server" />
+	<script src="fraktionen/rcpd/jail.lua" type="server" />
+	<script src="fraktionen/rcpd/jail_c.lua" type="client" />
+	<map src="fraktionen/rcpd/map.map" dimension="0"></map>
+	<map src="fraktionen/rcpd/prison.map" dimension="0"></map>
+	
+	
+	<script src="fraktionen/rcnr/tor.lua" type="server" />
+	<script src="fraktionen/rcnr/autos.lua" type="server" />
+	<script src="fraktionen/rcnr/funktionen.lua" type="server" />
+	<script src="fraktionen/rcnr/func_client.lua" type="client" />
+	<script src="fraktionen/rcnr/newspc.lua" type="server" />
+	<script src="fraktionen/rcnr/newspc_c.lua" type="client" />
+	<script src="fraktionen/rcnr/lotto_c.lua" type="client" />
+	<script src="fraktionen/rcnr/lotto.lua" type="server" />
+	<map src="fraktionen/rcnr/map.map" dimension="0"></map>
+	<map src="fraktionen/rcnr/map2.map" dimension="0"></map>
+	
+	<script src="fraktionen/redbrothers/tor.lua" type="server" />
+	<script src="fraktionen/redbrothers/autos.lua" type="server" />
+	<script src="fraktionen/redbrothers/funktionen.lua" type="server" />
+	<script src="fraktionen/redbrothers/paynspray.lua" type="server" />
+	<script src="fraktionen/redbrothers/func_client.lua" type="client" />
+	<map src="fraktionen/redbrothers/map.map" dimension="0"></map>
+	<map src="fraktionen/redbrothers/paynspray.map" dimension="0"></map>
+	
+	<script src="fraktionen/fbi/base.lua" type="server"/>
+	<script src="fraktionen/fbi/tor.lua" type="server"/>
+	<script src="fraktionen/fbi/funktionen.lua" type="server"/>
+	<script src="fraktionen/fbi/autos.lua" type="server"/>
+	
+	<map src="fraktionen/fbi/map.map" dimension="0"/>
+	<map src="fraktionen/fbi/int.map" dimension="0"/>
+	
+	
+	<script src="scoreboard/c_scoreboard.lua" type="client" />
+	<script src="scoreboard/s_scoreboard.lua" type="server" />
+	<file src="data/images/background.png" />
+	<file src="data/images/note1.png" />
+	<file src="data/images/note2.png" />	
+	<file src="data/images/tankstelle.png" />
+	<file src="data/images/writing.png" />
+	<file src="data/images/idle.png" />
+	
+	<file src="data/images/waffen/0.png"/>	
+	<file src="data/images/waffen/1.png"/>
+	<file src="data/images/waffen/2.png"/>
+	<file src="data/images/waffen/3.png"/>
+	<file src="data/images/waffen/4.png"/>
+	<file src="data/images/waffen/5.png"/>
+	<file src="data/images/waffen/6.png"/>
+	<file src="data/images/waffen/7.png"/>
+	<file src="data/images/waffen/8.png"/>
+	<file src="data/images/waffen/9.png"/>
+	<file src="data/images/waffen/10.png"/>
+	<file src="data/images/waffen/11.png"/>
+	<file src="data/images/waffen/12.png"/>
+	<file src="data/images/waffen/14.png"/>
+	<file src="data/images/waffen/15.png"/>
+	<file src="data/images/waffen/16.png"/>
+	<file src="data/images/waffen/17.png"/>
+	<file src="data/images/waffen/18.png"/>
+	<file src="data/images/waffen/22.png"/>
+	<file src="data/images/waffen/23.png"/>
+	<file src="data/images/waffen/24.png"/>
+	<file src="data/images/waffen/25.png"/>
+	<file src="data/images/waffen/26.png"/>
+	<file src="data/images/waffen/27.png"/>
+	<file src="data/images/waffen/28.png"/>
+	<file src="data/images/waffen/29.png"/>
+	<file src="data/images/waffen/30.png"/>
+	<file src="data/images/waffen/31.png"/>
+	<file src="data/images/waffen/32.png"/>
+	<file src="data/images/waffen/33.png"/>
+	<file src="data/images/waffen/34.png"/>
+	<file src="data/images/waffen/35.png"/>
+	<file src="data/images/waffen/36.png"/>
+	<file src="data/images/waffen/37.png"/>
+	<file src="data/images/waffen/38.png"/>
+	<file src="data/images/waffen/39.png"/>
+	<file src="data/images/waffen/41.png"/>
+	<file src="data/images/waffen/42.png"/>
+	<file src="data/images/waffen/43.png"/>
+	<file src="data/images/waffen/46.png"/>
+	<file src="data/images/waffen/unknow.png"/>
+	<file src="data/images/waffen/ammunation.png"/>
+	
+	<file src="data/images/hunger/pommes.png" />
+	<file src="data/images/hunger/hunger1.png" />
+	<file src="data/images/hunger/hunger2.png" />
+	
+	<file src="data/images/skins/0.png"/>
+	<file src="data/images/skins/1.png"/>
+	<file src="data/images/skins/2.png"/>
+	<file src="data/images/skins/7.png"/>
+	<file src="data/images/skins/9.png"/>
+	<file src="data/images/skins/10.png"/>
+	<file src="data/images/skins/11.png"/>
+	<file src="data/images/skins/12.png"/>
+	<file src="data/images/skins/13.png"/>
+	<file src="data/images/skins/14.png"/>
+	<file src="data/images/skins/15.png"/>
+	<file src="data/images/skins/16.png"/>
+	<file src="data/images/skins/18.png"/>
+	<file src="data/images/skins/19.png"/>
+	<file src="data/images/skins/20.png"/>
+	<file src="data/images/skins/21.png"/>
+	<file src="data/images/skins/22.png"/>
+	<file src="data/images/skins/23.png"/>
+	<file src="data/images/skins/24.png"/>
+	<file src="data/images/skins/25.png"/>
+	<file src="data/images/skins/26.png"/>
+	<file src="data/images/skins/27.png"/>
+	<file src="data/images/skins/28.png"/>
+	<file src="data/images/skins/29.png"/>
+	<file src="data/images/skins/30.png"/>
+	<file src="data/images/skins/31.png"/>
+	<file src="data/images/skins/32.png"/>
+	<file src="data/images/skins/33.png"/>
+	<file src="data/images/skins/34.png"/>
+	<file src="data/images/skins/35.png"/>
+	<file src="data/images/skins/36.png"/>
+	<file src="data/images/skins/37.png"/>
+	<file src="data/images/skins/38.png"/>
+	<file src="data/images/skins/39.png"/>
+	<file src="data/images/skins/40.png"/>
+	<file src="data/images/skins/41.png"/>
+	<file src="data/images/skins/43.png"/>
+	<file src="data/images/skins/44.png"/>
+	<file src="data/images/skins/45.png"/>
+	<file src="data/images/skins/46.png"/>
+	<file src="data/images/skins/47.png"/>
+	<file src="data/images/skins/48.png"/>
+	<file src="data/images/skins/49.png"/>
+	<file src="data/images/skins/50.png"/>
+	<file src="data/images/skins/52.png"/>
+	<file src="data/images/skins/53.png"/>
+	<file src="data/images/skins/54.png"/>
+	<file src="data/images/skins/55.png"/>
+	<file src="data/images/skins/56.png"/>
+	<file src="data/images/skins/57.png"/>
+	<file src="data/images/skins/58.png"/>
+	<file src="data/images/skins/59.png"/>
+	<file src="data/images/skins/60.png"/>
+	<file src="data/images/skins/61.png"/>
+	<file src="data/images/skins/62.png"/>
+	<file src="data/images/skins/63.png"/>
+	<file src="data/images/skins/64.png"/>
+	<file src="data/images/skins/66.png"/>
+	<file src="data/images/skins/67.png"/>
+	<file src="data/images/skins/68.png"/>
+	<file src="data/images/skins/69.png"/>
+	<file src="data/images/skins/70.png"/>
+	<file src="data/images/skins/71.png"/>
+	<file src="data/images/skins/72.png"/>
+	<file src="data/images/skins/73.png"/>
+	<file src="data/images/skins/75.png"/>
+	<file src="data/images/skins/76.png"/>
+	<file src="data/images/skins/77.png"/>
+	<file src="data/images/skins/78.png"/>
+	<file src="data/images/skins/79.png"/>
+	<file src="data/images/skins/80.png"/>
+	<file src="data/images/skins/81.png"/>
+	<file src="data/images/skins/82.png"/>
+	<file src="data/images/skins/83.png"/>
+	<file src="data/images/skins/84.png"/>
+	<file src="data/images/skins/85.png"/>
+	<file src="data/images/skins/87.png"/>
+	<file src="data/images/skins/88.png"/>
+	<file src="data/images/skins/89.png"/>
+	<file src="data/images/skins/90.png"/>
+	<file src="data/images/skins/91.png"/>
+	<file src="data/images/skins/92.png"/>
+	<file src="data/images/skins/93.png"/>
+	<file src="data/images/skins/94.png"/>
+	<file src="data/images/skins/95.png"/>
+	<file src="data/images/skins/96.png"/>
+	<file src="data/images/skins/97.png"/>
+	<file src="data/images/skins/98.png"/>
+	<file src="data/images/skins/100.png"/>
+	<file src="data/images/skins/101.png"/>
+	<file src="data/images/skins/102.png"/>
+	<file src="data/images/skins/103.png"/>
+	<file src="data/images/skins/104.png"/>
+	<file src="data/images/skins/105.png"/>
+	<file src="data/images/skins/106.png"/>
+	<file src="data/images/skins/107.png"/>
+	<file src="data/images/skins/109.png"/>
+	<file src="data/images/skins/110.png"/>
+	<file src="data/images/skins/111.png"/>
+	<file src="data/images/skins/112.png"/>
+	<file src="data/images/skins/114.png"/>
+	<file src="data/images/skins/115.png"/>
+	<file src="data/images/skins/116.png"/>
+	<file src="data/images/skins/117.png"/>
+	<file src="data/images/skins/118.png"/>
+	<file src="data/images/skins/120.png"/>
+	<file src="data/images/skins/121.png"/>
+	<file src="data/images/skins/122.png"/>
+	<file src="data/images/skins/123.png"/>
+	<file src="data/images/skins/124.png"/>
+	<file src="data/images/skins/125.png"/>
+	<file src="data/images/skins/126.png"/>
+	<file src="data/images/skins/127.png"/>
+	<file src="data/images/skins/128.png"/>
+	<file src="data/images/skins/129.png"/>
+	<file src="data/images/skins/130.png"/>
+	<file src="data/images/skins/131.png"/>
+	<file src="data/images/skins/132.png"/>
+	<file src="data/images/skins/133.png"/>
+	<file src="data/images/skins/134.png"/>
+	<file src="data/images/skins/135.png"/>
+	<file src="data/images/skins/136.png"/>
+	<file src="data/images/skins/137.png"/>
+	<file src="data/images/skins/138.png"/>
+	<file src="data/images/skins/139.png"/>
+	<file src="data/images/skins/140.png"/>
+	<file src="data/images/skins/141.png"/>
+	<file src="data/images/skins/142.png"/>
+	<file src="data/images/skins/143.png"/>
+	<file src="data/images/skins/144.png"/>
+	<file src="data/images/skins/145.png"/>
+	<file src="data/images/skins/146.png"/>
+	<file src="data/images/skins/147.png"/>
+	<file src="data/images/skins/148.png"/>
+	<file src="data/images/skins/150.png"/>
+	<file src="data/images/skins/151.png"/>
+	<file src="data/images/skins/152.png"/>
+	<file src="data/images/skins/153.png"/>
+	<file src="data/images/skins/154.png"/>
+	<file src="data/images/skins/155.png"/>
+	<file src="data/images/skins/156.png"/>
+	<file src="data/images/skins/157.png"/>
+	<file src="data/images/skins/158.png"/>
+	<file src="data/images/skins/159.png"/>
+	<file src="data/images/skins/160.png"/>
+	<file src="data/images/skins/162.png"/>
+	<file src="data/images/skins/163.png"/>
+	<file src="data/images/skins/164.png"/>
+	<file src="data/images/skins/165.png"/>
+	<file src="data/images/skins/167.png"/>
+	<file src="data/images/skins/168.png"/>
+	<file src="data/images/skins/169.png"/>
+	<file src="data/images/skins/170.png"/>
+	<file src="data/images/skins/171.png"/>
+	<file src="data/images/skins/173.png"/>
+	<file src="data/images/skins/175.png"/>
+	<file src="data/images/skins/176.png"/>
+	<file src="data/images/skins/177.png"/>
+	<file src="data/images/skins/178.png"/>
+	<file src="data/images/skins/179.png"/>
+	<file src="data/images/skins/180.png"/>
+	<file src="data/images/skins/181.png"/>
+	<file src="data/images/skins/182.png"/>
+	<file src="data/images/skins/183.png"/>
+	<file src="data/images/skins/184.png"/>
+	<file src="data/images/skins/185.png"/>
+	<file src="data/images/skins/186.png"/>
+	<file src="data/images/skins/187.png"/>
+	<file src="data/images/skins/188.png"/>
+	<file src="data/images/skins/189.png"/>
+	<file src="data/images/skins/190.png"/>
+	<file src="data/images/skins/191.png"/>
+	<file src="data/images/skins/192.png"/>
+	<file src="data/images/skins/193.png"/>
+	<file src="data/images/skins/194.png"/>
+	<file src="data/images/skins/195.png"/>
+	<file src="data/images/skins/196.png"/>
+	<file src="data/images/skins/197.png"/>
+	<file src="data/images/skins/198.png"/>
+	<file src="data/images/skins/199.png"/>
+	<file src="data/images/skins/200.png"/>
+	<file src="data/images/skins/201.png"/>
+	<file src="data/images/skins/203.png"/>
+	<file src="data/images/skins/205.png"/>
+	<file src="data/images/skins/206.png"/>
+	<file src="data/images/skins/207.png"/>
+	<file src="data/images/skins/208.png"/>
+	<file src="data/images/skins/209.png"/>
+	<file src="data/images/skins/210.png"/>
+	<file src="data/images/skins/211.png"/>
+	<file src="data/images/skins/212.png"/>
+	<file src="data/images/skins/213.png"/>
+	<file src="data/images/skins/214.png"/>
+	<file src="data/images/skins/215.png"/>
+	<file src="data/images/skins/216.png"/>
+	<file src="data/images/skins/217.png"/>
+	<file src="data/images/skins/218.png"/>
+	<file src="data/images/skins/219.png"/>
+	<file src="data/images/skins/220.png"/>
+	<file src="data/images/skins/221.png"/>
+	<file src="data/images/skins/222.png"/>
+	<file src="data/images/skins/223.png"/>
+	<file src="data/images/skins/224.png"/>
+	<file src="data/images/skins/225.png"/>
+	<file src="data/images/skins/226.png"/>
+	<file src="data/images/skins/227.png"/>
+	<file src="data/images/skins/228.png"/>
+	<file src="data/images/skins/229.png"/>
+	<file src="data/images/skins/230.png"/>
+	<file src="data/images/skins/231.png"/>
+	<file src="data/images/skins/232.png"/>
+	<file src="data/images/skins/234.png"/>
+	<file src="data/images/skins/235.png"/>
+	<file src="data/images/skins/236.png"/>
+	<file src="data/images/skins/237.png"/>
+	<file src="data/images/skins/238.png"/>
+	<file src="data/images/skins/239.png"/>
+	<file src="data/images/skins/240.png"/>
+	<file src="data/images/skins/241.png"/>
+	<file src="data/images/skins/242.png"/>
+	<file src="data/images/skins/243.png"/>
+	<file src="data/images/skins/244.png"/>
+	<file src="data/images/skins/245.png"/>
+	<file src="data/images/skins/246.png"/>
+	<file src="data/images/skins/247.png"/>
+	<file src="data/images/skins/248.png"/>
+	<file src="data/images/skins/249.png"/>
+	<file src="data/images/skins/250.png"/>
+	<file src="data/images/skins/251.png"/>
+	<file src="data/images/skins/252.png"/>
+	<file src="data/images/skins/253.png"/>
+	<file src="data/images/skins/254.png"/>
+	<file src="data/images/skins/255.png"/>
+	<file src="data/images/skins/256.png"/>
+	<file src="data/images/skins/257.png"/>
+	<file src="data/images/skins/258.png"/>
+	<file src="data/images/skins/259.png"/>
+	<file src="data/images/skins/260.png"/>
+	<file src="data/images/skins/261.png"/>
+	<file src="data/images/skins/262.png"/>
+	<file src="data/images/skins/263.png"/>
+	<file src="data/images/skins/264.png"/>
+	<file src="data/images/skins/265.png"/>
+	<file src="data/images/skins/266.png"/>
+	<file src="data/images/skins/267.png"/>
+	<file src="data/images/skins/268.png"/>
+	<file src="data/images/skins/269.png"/>
+	<file src="data/images/skins/270.png"/>
+	<file src="data/images/skins/271.png"/>
+	<file src="data/images/skins/272.png"/>
+	<file src="data/images/skins/274.png"/>
+	<file src="data/images/skins/275.png"/>
+	<file src="data/images/skins/276.png"/>
+	<file src="data/images/skins/277.png"/>
+	<file src="data/images/skins/278.png"/>
+	<file src="data/images/skins/279.png"/>
+	<file src="data/images/skins/280.png"/>
+	<file src="data/images/skins/281.png"/>
+	<file src="data/images/skins/282.png"/>
+	<file src="data/images/skins/283.png"/>
+	<file src="data/images/skins/284.png"/>
+	<file src="data/images/skins/285.png"/>
+	<file src="data/images/skins/286.png"/>
+	<file src="data/images/skins/287.png"/>
+	<file src="data/images/skins/288.png"/>
+	<file src="data/images/skins/289.png"/>
+	<file src="data/images/skins/290.png"/>
+	<file src="data/images/skins/291.png"/>
+	<file src="data/images/skins/292.png"/>
+	<file src="data/images/skins/293.png"/>
+	<file src="data/images/skins/294.png"/>
+	<file src="data/images/skins/295.png"/>
+	<file src="data/images/skins/296.png"/>
+	<file src="data/images/skins/297.png"/>
+	<file src="data/images/skins/298.png"/>
+	<file src="data/images/skins/299.png"/>
+	<file src="data/images/skins/300.png"/>
+	<file src="data/images/skins/301.png"/>
+	<file src="data/images/skins/302.png"/>
+	<file src="data/images/skins/303.png"/>
+	<file src="data/images/skins/304.png"/>
+	<file src="data/images/skins/305.png"/>
+	<file src="data/images/skins/306.png"/>
+	<file src="data/images/skins/307.png"/>
+	<file src="data/images/skins/308.png"/>
+	<file src="data/images/skins/309.png"/>
+	<file src="data/images/skins/310.png"/>
+	<file src="data/images/skins/311.png"/>
+	<file src="data/images/skins/312.png"/>
+	<file src="data/images/skins/unknow.png"/>
+	<file src="data/images/skins/!README.txt"/>
+	
+	<min_mta_version client="1.3.0" server="1.3.0" />
+</meta>

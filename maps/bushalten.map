@@ -1,0 +1,7 @@
+<map edf:definitions="editor_main">
+    <object id="object (bustopm) (1)" doublesided="false" model="1257" interior="0" dimension="0" posX="239.00999450684" posY="-6.9099998474121" posZ="2.2599999904633" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bustopm) (2)" doublesided="false" model="1257" interior="0" dimension="0" posX="1340.7199707031" posY="310.05999755859" posZ="19.829999923706" rotX="0" rotY="0" rotZ="66"></object>
+    <object id="object (bustopm) (3)" doublesided="false" model="1257" interior="0" dimension="0" posX="1307.9399414063" posY="-81.919998168945" posZ="36.849998474121" rotX="0" rotY="0" rotZ="309.99487304688"></object>
+    <object id="object (bustopm) (4)" doublesided="false" model="1257" interior="0" dimension="0" posX="2287.5500488281" posY="-63.770000457764" posZ="26.760000228882" rotX="0" rotY="0" rotZ="181.990234375"></object>
+    <object id="object (bustopm) (5)" doublesided="false" model="1257" interior="0" dimension="0" posX="659.19000244141" posY="-591.98999023438" posZ="16.559999465942" rotX="0" rotY="0" rotZ="87.988525390625"></object>
+</map>

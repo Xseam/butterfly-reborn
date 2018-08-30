@@ -1,0 +1,58 @@
+<map edf:definitions="editor_main">
+    <object id="object (des_windsockpole) (1)" doublesided="false" model="16101" interior="0" dimension="0" posX="233.39999389648" posY="1934.9000244141" posZ="32.900001525879" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (des_windsockpole) (2)" doublesided="false" model="16101" interior="0" dimension="0" posX="267.10000610352" posY="1895.1999511719" posZ="32.900001525879" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (des_windsockpole) (3)" doublesided="false" model="16101" interior="0" dimension="0" posX="262.20001220703" posY="1807.5999755859" posZ="32.900001525879" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (des_windsockpole) (4)" doublesided="false" model="16101" interior="0" dimension="0" posX="166.10000610352" posY="1849.8000488281" posZ="32.900001525879" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (des_windsockpole) (5)" doublesided="false" model="16101" interior="0" dimension="0" posX="113.40000152588" posY="1814.3000488281" posZ="32.900001525879" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (des_windsockpole) (6)" doublesided="false" model="16101" interior="0" dimension="0" posX="104" posY="1901" posZ="32.900001525879" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (des_windsockpole) (7)" doublesided="false" model="16101" interior="0" dimension="0" posX="161.80000305176" posY="1933" posZ="32.900001525879" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmb_cam) (1)" doublesided="false" model="2921" interior="0" dimension="0" posX="104.09999847412" posY="1901" posZ="43.700000762939" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmb_cam) (2)" doublesided="false" model="2921" interior="0" dimension="0" posX="161.80000305176" posY="1932.9000244141" posZ="43.700000762939" rotX="0" rotY="0" rotZ="292"></object>
+    <object id="object (kmb_cam) (3)" doublesided="false" model="2921" interior="0" dimension="0" posX="233.5" posY="1934.9000244141" posZ="43.799999237061" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmb_cam) (4)" doublesided="false" model="2921" interior="0" dimension="0" posX="267.20001220703" posY="1895.1999511719" posZ="43.700000762939" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmb_cam) (5)" doublesided="false" model="2921" interior="0" dimension="0" posX="262.20001220703" posY="1807.6999511719" posZ="43.700000762939" rotX="0" rotY="0" rotZ="94"></object>
+    <object id="object (kmb_cam) (6)" doublesided="false" model="2921" interior="0" dimension="0" posX="113.40000152588" posY="1814.3000488281" posZ="43.700000762939" rotX="0" rotY="0" rotZ="48"></object>
+    <object id="object (kmb_cam) (7)" doublesided="false" model="2921" interior="0" dimension="0" posX="166.10000610352" posY="1849.6999511719" posZ="43.700000762939" rotX="0" rotY="0" rotZ="251.50006103516"></object>
+    <object id="object (a51_spottower) (1)" doublesided="false" model="3279" interior="0" dimension="0" posX="387.29998779297" posY="2077.1000976563" posZ="16.5" rotX="0" rotY="0" rotZ="269.25"></object>
+    <object id="object (a51_spottower) (2)" doublesided="false" model="3279" interior="0" dimension="0" posX="180.5" posY="2089.3000488281" posZ="21.5" rotX="0" rotY="0" rotZ="269.24743652344"></object>
+    <object id="object (des_windsockpole) (8)" doublesided="false" model="16101" interior="0" dimension="0" posX="180.30000305176" posY="2089.3000488281" posZ="37.599998474121" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (des_windsockpole) (9)" doublesided="false" model="16101" interior="0" dimension="0" posX="387.39999389648" posY="2077.1999511719" posZ="32.599998474121" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (a51_spottower) (3)" doublesided="false" model="3279" interior="0" dimension="0" posX="387.20001220703" posY="1897.9000244141" posZ="16.5" rotX="0" rotY="0" rotZ="269.24743652344"></object>
+    <object id="object (des_windsockpole) (11)" doublesided="false" model="16101" interior="0" dimension="0" posX="387" posY="1897.9000244141" posZ="32.599998474121" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmb_cam) (8)" doublesided="false" model="2921" interior="0" dimension="0" posX="387" posY="1897.9000244141" posZ="43.400001525879" rotX="0" rotY="0" rotZ="151.24996948242"></object>
+    <object id="object (kmb_cam) (9)" doublesided="false" model="2921" interior="0" dimension="0" posX="387.39999389648" posY="2077.1999511719" posZ="43.400001525879" rotX="0" rotY="0" rotZ="235"></object>
+    <object id="object (kmb_cam) (10)" doublesided="false" model="2921" interior="0" dimension="0" posX="180.30000305176" posY="2089.3000488281" posZ="48.400001525879" rotX="0" rotY="0" rotZ="276.99755859375"></object>
+    <object id="object (a51_jetdoor) (1)" doublesided="false" model="3095" interior="0" dimension="0" posX="268.5" posY="1883.6999511719" posZ="16.10000038147" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmilitary_base) (1)" doublesided="false" model="2978" interior="0" dimension="0" posX="239.30000305176" posY="1857.9000244141" posZ="16.89999961853" rotX="0" rotY="276" rotZ="30"></object>
+    <object id="object (kmilitary_base) (2)" doublesided="false" model="2978" interior="0" dimension="0" posX="238.69999694824" posY="1859" posZ="16.89999961853" rotX="0" rotY="275.99853515625" rotZ="29.998168945313"></object>
+    <object id="object (kmilitary_base) (3)" doublesided="false" model="2978" interior="0" dimension="0" posX="238.5" posY="1859.1999511719" posZ="16.89999961853" rotX="0" rotY="275.99853515625" rotZ="29.998168945313"></object>
+    <object id="object (kmilitary_base) (4)" doublesided="false" model="2978" interior="0" dimension="0" posX="238.60000610352" posY="1859.4000244141" posZ="17.700000762939" rotX="0" rotY="275.99853515625" rotZ="29.998168945313"></object>
+    <object id="object (kmilitary_base) (5)" doublesided="false" model="2978" interior="0" dimension="0" posX="239.10000610352" posY="1858.4000244141" posZ="17.700000762939" rotX="0" rotY="275.99853515625" rotZ="29.998168945313"></object>
+    <object id="object (kmilitary_base) (6)" doublesided="false" model="2978" interior="0" dimension="0" posX="239.39999389648" posY="1857.8000488281" posZ="17.700000762939" rotX="0" rotY="275.99853515625" rotZ="29.998168945313"></object>
+    <object id="object (kmilitary_base) (7)" doublesided="false" model="2978" interior="0" dimension="0" posX="239.5" posY="1857.6999511719" posZ="18.5" rotX="0" rotY="275.99853515625" rotZ="29.998168945313"></object>
+    <object id="object (kmilitary_base) (8)" doublesided="false" model="2978" interior="0" dimension="0" posX="239" posY="1858.6999511719" posZ="18.5" rotX="0" rotY="275.99853515625" rotZ="29.998168945313"></object>
+    <object id="object (kmilitary_base) (9)" doublesided="false" model="2978" interior="0" dimension="0" posX="238.60000610352" posY="1859.5" posZ="18.5" rotX="0" rotY="275.99853515625" rotZ="29.998168945313"></object>
+    <object id="object (1)" doublesided="false" model="1337" interior="0" dimension="0" posX="245.89999389648" posY="1857.5" posZ="14.10000038147" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (2)" doublesided="false" model="1337" interior="0" dimension="0" posX="246.30000305176" posY="1857.5" posZ="14.10000038147" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (3)" doublesided="false" model="1337" interior="0" dimension="0" posX="245.5" posY="1857.5999755859" posZ="14.199999809265" rotX="0" rotY="0" rotZ="280.75"></object>
+    <object id="object (4)" doublesided="false" model="1337" interior="0" dimension="0" posX="245.10000610352" posY="1857.5" posZ="13.89999961853" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (6)" doublesided="false" model="1337" interior="0" dimension="0" posX="246.69999694824" posY="1857.5" posZ="14" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (7)" doublesided="false" model="1337" interior="0" dimension="0" posX="246.60000610352" posY="1857.5" posZ="15.10000038147" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (8)" doublesided="false" model="1337" interior="0" dimension="0" posX="246.60000610352" posY="1857.5" posZ="14.699999809265" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (9)" doublesided="false" model="1337" interior="0" dimension="0" posX="248.69999694824" posY="1857.5" posZ="13.800000190735" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (10)" doublesided="false" model="1337" interior="0" dimension="0" posX="249.10000610352" posY="1857.5" posZ="15.300000190735" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (11)" doublesided="false" model="1337" interior="0" dimension="0" posX="249" posY="1857.5" posZ="14.300000190735" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (13)" doublesided="false" model="1337" interior="0" dimension="0" posX="247.89999389648" posY="1857.5" posZ="15.199999809265" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (14)" doublesided="false" model="1337" interior="0" dimension="0" posX="247.80000305176" posY="1857.5" posZ="14.60000038147" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (15)" doublesided="false" model="1337" interior="0" dimension="0" posX="248" posY="1857.5" posZ="13.800000190735" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (16)" doublesided="false" model="1337" interior="0" dimension="0" posX="249" posY="1857.5" posZ="14.800000190735" rotX="0" rotY="0" rotZ="0"></object>
+	<object id="object (ab_casdorLok) (1)" doublesided="false" model="3089" interior="0" dimension="0" posX="282.60000610352" posY="1970.5999755859" posZ="18" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ab_casdorLok) (2)" doublesided="false" model="3089" interior="0" dimension="0" posX="282.70001220703" posY="2004.4000244141" posZ="18" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ab_casdorLok) (3)" doublesided="false" model="3089" interior="0" dimension="0" posX="282.60000610352" posY="2038.5999755859" posZ="18" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ab_casdorLok) (4)" doublesided="false" model="3089" interior="0" dimension="0" posX="266.70001220703" posY="2037.6999511719" posZ="18" rotX="0" rotY="0" rotZ="269.75"></object>
+    <object id="object (ab_casdorLok) (5)" doublesided="false" model="3089" interior="0" dimension="0" posX="266.70001220703" posY="2011.3000488281" posZ="18" rotX="0" rotY="0" rotZ="267.7451171875"></object>
+    <object id="object (ab_casdorLok) (6)" doublesided="false" model="3089" interior="0" dimension="0" posX="266.60000610352" posY="2003.5" posZ="18" rotX="0" rotY="0" rotZ="268.7451171875"></object>
+    <object id="object (ab_casdorLok) (7)" doublesided="false" model="3089" interior="0" dimension="0" posX="266.70001220703" posY="1977.0999755859" posZ="18" rotX="0" rotY="0" rotZ="269.9951171875"></object>
+    <object id="object (ab_casdorLok) (8)" doublesided="false" model="3089" interior="0" dimension="0" posX="266.70001220703" posY="1969.6999511719" posZ="18" rotX="0" rotY="0" rotZ="269.9951171875"></object>
+    <object id="object (ab_casdorLok) (9)" doublesided="false" model="3089" interior="0" dimension="0" posX="266.70001220703" posY="1943.3000488281" posZ="18" rotX="0" rotY="0" rotZ="269.9951171875"></object>
+</map>
